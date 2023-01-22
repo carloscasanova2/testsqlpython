@@ -1,0 +1,457 @@
+fecha,objetivo,tienda,departamento,vendedor,producto,valor,fecha_despacho
+2021-05-03,Solicitud pedidos,La fama cajamarca ,Tolima,Ernesto Sánchez,Tordon xt,404000.0,2021-05-07
+2021-05-04,"Revisión inventario,Solicitud pedidos",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,Tuttela 75wdg,90000.0,2021-05-06
+2021-05-04,"Revisión inventario,Solicitud pedidos",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,Tronador d,200000.0,2021-05-08
+2021-05-04,"Revisión inventario,Solicitud pedidos",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,Tordon xt,480000.0,2021-05-08
+2021-05-04,"Revisión inventario,Solicitud pedidos",Asojuncal,Huila,Maritza Ferreira,Clincher ec,1905000.0,2021-05-09
+2021-05-11,"Revisión inventario,Solicitud pedidos",Empresarios del campo,Huila,Maritza Ferreira,Dithane m-45,2275000.0,2021-06-06
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Dithane m-45,2600000.0,2021-06-07
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Crecifol 103010,992000.0,2021-05-28
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Ambox,123000.0,2021-05-15
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Tordon xt,1307000.0,2021-05-16
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Cronos 60wg,108000.0,2021-05-15
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Lorsban 2.5%dp,864000.0,2021-06-05
+2021-05-12,Solicitud pedidos,Agrovariedades el Lago,Tolima,Ernesto Sánchez,Estelar 1280,5548000.0,2021-05-20
+2021-05-20,"Revisión inventario,Solicitud pedidos",Agronorte del Huila,Huila,Maritza Ferreira,Tronador d,210000000.0,2021-07-19
+2021-05-20,Solicitud pedidos,Agroinsumos La Primera,Tolima,Ernesto Sánchez,Cobrethane,13500.0,2021-05-22
+2021-05-20,Solicitud pedidos,Agroinsumos La Primera,Tolima,Ernesto Sánchez,Capello,21125000.0,2023-03-01
+2021-05-20,Solicitud pedidos,Abonos Rovira,Tolima,Ernesto Sánchez,Santimec,18773.0,2023-02-19
+2021-05-20,Solicitud pedidos,Abonos Rovira,Tolima,Ernesto Sánchez,"Lorsban 2,5% dp",907200.0,2021-06-13
+2021-05-20,Solicitud pedidos,Abonos Rovira,Tolima,Ernesto Sánchez,Lepecid,360000.0,2021-06-07
+2021-05-20,Solicitud pedidos,Agroinsumos La Cordillera,Tolima,Ernesto Sánchez,Dorphum 60wp,198000.0,2021-05-23
+2021-05-20,Solicitud pedidos,Agroinsumos La Cordillera,Tolima,Ernesto Sánchez,Crecifol llenado,25000.0,2021-05-25
+2021-05-21,"Atención al público,Revisión inventario",Agro Leo,Tolima,Ernesto Sánchez,Exalt 60 sc,19250000.0,2022-10-03
+2021-05-24,"Cobro cartera,Solicitud pedidos",Agroinsumos Cajamarca,Tolima,Ernesto Sánchez,Antorch,109600.0,2021-05-25
+2021-05-26,Atención al público,la finca Ferreagro ,Tolima,Ernesto Sánchez,Cronos 60wg,625000.0,2021-09-03
+2021-05-26,Atención al público,la finca Ferreagro ,Tolima,Ernesto Sánchez,Tordon xt,1362500.0,2021-05-29
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Crecifol 103010,153000.0,2021-06-03
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Buril,5250000.0,2022-03-26
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Closer 240 sc,122010000.0,2025-03-30
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Rally 40 wp,16200000.0,2023-01-20
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Crecifol llenado,198000.0,2021-06-05
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Koyote,62833333.0,2021-06-05
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Capello,414000.0,2021-06-01
+2021-05-30,Atención al público,Agroveterinaria Animals,Tolima,Ernesto Sánchez,Exalt 60 sc,207000.0,2021-06-03
+2021-05-27,Revisión inventario,Fibras del Interior,Tolima,Omar Angarita,Goal 480 sc,70537500.0,2021-06-14
+2021-06-09,Solicitud pedidos,Agronorte del Huila,Huila,Maritza Ferreira,Cronos 60wg,28125000.0,2021-07-29
+2021-06-11,Solicitud pedidos,Wilson Guzmán Quimbaya,Tolima,Ernesto Sánchez,Rally ec,792000000.0,2031-04-20
+2021-06-25,"Atención al público,Revisión inventario,Solicitud pedidos",Agrocentro Rivera,Huila,Lorena Muñoz,Arpon,14800.0,2021-06-26
+2021-06-25,"Atención al público,Revisión inventario,Solicitud pedidos",Agrocentro Rivera,Huila,Lorena Muñoz,Verdict 1400,35000.0,2021-06-26
+2021-06-26,"Atención al público,Revisión inventario,Solicitud pedidos",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,Closer 240 sc,61250.0,2021-06-27
+2021-06-27,"Atención al público,Revisión inventario,Solicitud pedidos",Gerardo Quilombo,Huila,Lorena Muñoz,Ambox,97500.0,2021-06-28
+2021-06-27,"Atención al público,Revisión inventario,Solicitud pedidos",Gerardo Quilombo,Huila,Lorena Muñoz,Victorius 48sl,108000.0,2021-06-28
+2021-06-28,"Atención al público,Solicitud pedidos,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Cronos 60wg,69000.0,2021-06-29
+2021-06-28,"Atención al público,Solicitud pedidos,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Arpon,144000.0,2021-06-29
+2021-06-29,"Atención al público,Solicitud pedidos,Revisión inventario",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,Estelar 1280,30000.0,2021-06-30
+2021-07-02,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Tronador d,42750.0,2021-07-03
+2021-07-03,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Crecifol 103010,45000.0,2021-07-05
+2021-07-03,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Arpon,14600.0,2021-07-04
+2021-07-04,"Atención al público,Revisión inventario",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,Arpon,18750.0,2021-07-05
+2021-07-04,"Atención al público,Revisión inventario",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,Estelar 1280,175000.0,2021-07-05
+2021-07-04,"Atención al público,Revisión inventario",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,"Lorsban 2,5% dp",30000.0,2021-07-07
+2021-07-06,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Dorphum 60wp,27000.0,2021-07-07
+2021-07-06,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Arpon,56250.0,2021-07-09
+2021-07-07,"Atención al público,Solicitud pedidos",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,Arpon,14400.0,2021-07-08
+2021-07-09,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Tronador d,57000.0,2021-07-10
+2021-07-09,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,"Lorsban 2,5% dp",27200.0,2021-07-13
+2021-07-09,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Lepecid,15000.0,2021-07-10
+2021-07-10,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Novaplant ca-b-zn,47500.0,2021-07-11
+2021-07-10,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Estelartm 1280 sl,72500.0,2021-07-12
+2021-07-10,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Topgun,237500.0,2021-07-11
+2021-07-10,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Imperius,72500.0,2021-07-11
+2021-07-10,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Crecifol llenado,30000.0,2021-07-11
+2021-07-10,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Arpon,37500.0,2021-07-12
+2021-07-12,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Capello,120000.0,2021-07-14
+2021-07-13,"Atención al público,Revisión inventario,Solicitud pedidos",Cadefihuila Palermo,Huila,Lorena Muñoz,Cronos 60wg,25625.0,2021-07-18
+2021-07-13,"Atención al público,Revisión inventario,Solicitud pedidos",Cadefihuila Palermo,Huila,Lorena Muñoz,Tordon xt,144625.0,2021-07-14
+2021-07-14,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Crecifol 103010,15000.0,2021-07-15
+2021-07-14,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Estelartm 1280 sl,20100.0,2021-07-15
+2021-07-14,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Tronador d,32625.0,2021-07-17
+2021-07-15,"Atención al público,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,Capello,80000.0,2021-07-16
+2021-07-15,"Atención al público,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,"Lorsban 2,5% dp",98000.0,2021-07-22
+2021-07-16,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Estelartm 1280 sl,37250.0,2021-07-17
+2021-07-16,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Arpon,18250.0,2021-07-17
+2021-07-19,Solicitud pedidos,Renovación Agropecuaria,Tolima,Ernesto Sánchez,Tronador d,1230000.0,2021-08-08
+2021-07-22,Atención al público,Cadefihuila Neiva ,Huila,Lorena Muñoz,Dithane m-45 wp nt,4650.0,2021-07-23
+2021-07-22,"Atención al público,Revisión inventario,Cobro cartera,Solicitud pedidos",Surtiagro Gallardo,Huila,Julio Velasquez,Tordon xt,75000.0,2021-07-25
+2021-07-24,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Estelartm 1280 sl,60000.0,2021-07-25
+2021-07-24,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Predostar 300 gr,60000.0,2021-07-25
+2021-07-24,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Capello,80000.0,2021-07-25
+2021-07-24,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Arpon,30000.0,2021-07-25
+2021-07-24,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Lorsban 2.5%dp,84000.0,2021-07-30
+2021-07-25,"Atención al público,Revisión inventario",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,Dithane m-45 wp nt,18000.0,2021-07-26
+2021-07-25,"Atención al público,Revisión inventario",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,Arpon,15000.0,2021-07-26
+2021-07-27,"Atención al público,Solicitud pedidos,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Cobrethane,64500.0,2021-07-29
+2021-07-27,"Atención al público,Solicitud pedidos,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Dorphum 60wp,882000.0,2021-08-10
+2021-07-27,"Atención al público,Solicitud pedidos,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Santimec,645000.0,2021-07-30
+2021-07-29,"Atención al público,Revisión inventario",Cadefihuila Palermo,Huila,Lorena Muñoz,Crecifol 103010,22500.0,2021-07-30
+2021-07-31,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Crecifol 103010,18000.0,2021-08-01
+2021-07-31,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Arpon,15000.0,2021-08-01
+2021-08-02,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Exalt 60 sc,46250.0,2021-08-03
+2021-08-02,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Capello,50000.0,2021-08-03
+2021-08-02,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Tronador d,18750.0,2021-08-03
+2021-08-02,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Arpon,18750.0,2021-08-03
+2021-08-04,"Atención al público,Revisión inventario",Cadefihuila Palermo,Huila,Lorena Muñoz,Victorius 48sl,17875.0,2021-08-05
+2021-08-09,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Rally 40 wp,32500.0,2021-08-10
+2021-08-09,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Antorch,67500.0,2021-08-10
+2021-08-10,"Atención al público,Revisión inventario",Agrocentro Rivera,Huila,Lorena Muñoz,Predostar 300 gr,44000.0,2021-08-12
+2021-08-10,"Atención al público,Revisión inventario",Agrocentro Rivera,Huila,Lorena Muñoz,Exalt 60 sc,36300.0,2021-08-11
+2021-08-10,"Atención al público,Revisión inventario",Agrocentro Rivera,Huila,Lorena Muñoz,Cobrethane ,26500.0,2021-08-11
+2021-08-17,"Atención al público,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Arpon,35000.0,2021-08-19
+2021-08-17,"Atención al público,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Santimec,48750.0,2021-08-18
+2021-08-17,"Atención al público,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,Arrasador 757,302400.0,2021-08-23
+2021-08-23,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Predostar 300 gr,28750.0,2021-08-24
+2021-08-23,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Capello,200000.0,2021-08-27
+2021-08-23,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Santimec,42500.0,2021-08-24
+2021-08-23,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,Arpon,35000.0,2021-08-25
+2021-08-23,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,"Lorsban 2,5% dp",9250.0,2021-08-24
+2021-08-27,"Atención al público,Revisión inventario",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,Intrepid,31500.0,2021-08-28
+2021-08-27,"Atención al público,Revisión inventario",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,Santimec,43312.0,2021-08-28
+2021-08-27,"Atención al público,Revisión inventario",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,Buril,31250.0,2021-08-28
+2021-08-31,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Exalt 60 sc,27000.0,2021-09-01
+2021-08-31,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,Arpon,11025.0,2021-09-01
+2021-09-27,"Atención al público,Revisión inventario",Nutriabinos del sur ,Huila,Teresa Dominguez,Intrepid,412.0,2021-09-30
+2021-07-08,Otro,Ferreagro,Huila,Teresa Dominguez,,,
+2021-07-08,Otro,DISAGRO  de occidente S.A.S ,Huila,Teresa Dominguez,,,
+2021-07-11,"Atención al público,Revisión inventario",Nutriabinos del sur ,Huila,Teresa Dominguez,,,
+2022-01-11,"Atención al público,Revisión inventario",Agrosolla,Huila,Teresa Dominguez,Kruga,52.0,2022-01-12
+2022-01-11,"Atención al público,Revisión inventario",Agrosolla,Huila,Teresa Dominguez,Herbox sl,40500.0,2022-01-14
+2021-07-03,Otro,Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-07-03,"Solicitud pedidos,Otro",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-07-03,Otro,Agromaquinas del Huila ,Huila,Lorena Muñoz,,,
+2021-07-03,"Solicitud pedidos,Otro",Induagro Neiva,Huila,Lorena Muñoz,,,
+2021-07-03,Otro,Distrimotores de Colombia ,Caquetá,Lorena Muñoz,,,
+2021-07-03,Otro,Tecnicas Endara,Huila,Lorena Muñoz,,,
+2021-07-03,Otro,La casa del ganadero ,Huila,Lorena Muñoz,,,
+2021-07-04,Otro,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-07-04,Otro,Agroveterinaria El Country,Huila,Lorena Muñoz,,,
+2021-07-04,Otro,OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-07-04,Otro,Agricolas Algeciras ltda,Huila,Lorena Muñoz,,,
+2021-07-05,"Otro,Solicitud pedidos",Insumos Huila,Huila,Lorena Muñoz,,,
+2021-07-06,"Solicitud pedidos,Otro",Agrícola Rioneiva,Huila,Lorena Muñoz,,,
+2021-07-06,"Solicitud pedidos,Otro",Asojuncal,Huila,Lorena Muñoz,,,
+2021-07-07,"Atención al público,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-07-11,"Otro,Solicitud pedidos,Atención al público",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-07-11,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-07-12,"Atención al público,Solicitud pedidos,Revisión inventario",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-07-12,"Solicitud pedidos,Revisión inventario,Otro",Inagroscol,Huila,Lorena Muñoz,,,
+2021-07-13,"Atención al público,Revisión inventario",El Aliado del campo,Huila,Teresa Dominguez,,,
+2021-07-13,"Atención al público,Revisión inventario",AgroisnosB,Huila,Teresa Dominguez,,,
+2021-07-13,"Atención al público,Revisión inventario",Insumos Baykim,Huila,Teresa Dominguez,,,
+2021-07-17,"Atención al público,Solicitud pedidos",Agroveterinaria Animals,Tolima,Juan Pablo Arboleda,,,
+2021-07-17,"Atención al público,Revisión inventario",La fama cajamarca ,Tolima,Juan Pablo Arboleda,,,
+2021-07-17,Otro,Central Pecuaria ,Tolima,Juan Pablo Arboleda,,,
+2021-07-17,Solicitud pedidos,Agroinsumos Cajamarca,Tolima,Juan Pablo Arboleda,,,
+2021-07-18,"Atención al público,Revisión inventario,Solicitud pedidos,Otro",Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-07-18,"Atención al público,Revisión inventario,Cobro cartera",Agrosamarios del Huila s. a. s,Huila,Maritza Ferreira,,,
+2021-07-18,"Atención al público,Revisión inventario,Cobro cartera",Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-07-18,"Atención al público,Revisión inventario",Agrocosur,Huila,Maritza Ferreira,,,
+2021-07-15,"Atención al público,Revisión inventario",Agrosolla,Huila,Teresa Dominguez,,,
+2021-07-21,"Revisión inventario,Otro",Agrocosur,Huila,Maritza Ferreira,,,
+2021-07-21,"Revisión inventario,Otro",Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-07-21,Solicitud pedidos,Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-07-21,Solicitud pedidos,Agrocentro Rivera,Huila,Maritza Ferreira,,,
+2021-07-21,"Atención al público,Revisión inventario",Insumos Baykim,Huila,Teresa Dominguez,,,
+2021-07-22,"Atención al público,Revisión inventario",Agrícola la gaitana ,Huila,Teresa Dominguez,,,
+2021-07-24,"Atención al público,Revisión inventario",JC Agricola,Huila,Teresa Dominguez,,,
+2021-07-25,"Revisión inventario,Solicitud pedidos,Otro",Agricola Rio Neiva,Huila,Maritza Ferreira,,,
+2021-07-25,"Revisión inventario,Solicitud pedidos",Fertillanogrande,Huila,Maritza Ferreira,,,
+2021-07-25,"Revisión inventario,Solicitud pedidos,Otro",Asojuncal,Huila,Maritza Ferreira,,,
+2021-07-26,"Revisión inventario,Solicitud pedidos,Otro",Insumos Huila,Huila,Maritza Ferreira,,,
+2021-07-26,"Revisión inventario,Solicitud pedidos",Agrocosur,Huila,Maritza Ferreira,,,
+2021-07-26,"Solicitud pedidos,Otro",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-07-26,Otro,Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-07-26,"Solicitud pedidos,Otro",Ferreobrero,Huila,Maritza Ferreira,,,
+2021-07-27,"Solicitud pedidos,Otro",Agrocosur,Huila,Maritza Ferreira,,,
+2021-07-27,"Solicitud pedidos,Otro",Tecnicas Endara,Huila,Maritza Ferreira,,,
+2021-07-27,"Revisión inventario,Otro",Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-07-28,"Solicitud pedidos,Otro",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-07-28,"Solicitud pedidos,Otro",La casa del ganadero ,Huila,Maritza Ferreira,,,
+2021-07-28,"Atención al público,Revisión inventario",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-07-28,"Atención al público,Revisión inventario,Solicitud pedidos",Agricolas Algeciras ltda,Huila,Lorena Muñoz,,,
+2021-07-28,"Atención al público,Revisión inventario",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-07-17,"Atención al público,Solicitud pedidos,Revisión inventario",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-07-25,Otro,Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-07-17,"Atención al público,Solicitud pedidos,Otro",Cadefihuila Neiva ,Huila,Lorena Muñoz,,,
+2021-07-17,Atención al público,Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-07-18,"Atención al público,Solicitud pedidos",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-07-18,Solicitud pedidos,Inagroscol,Huila,Lorena Muñoz,,,
+2021-07-18,"Atención al público,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-07-29,Atención al público,Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-07-19,"Atención al público,Revisión inventario,Solicitud pedidos",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-07-26,"Atención al público,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-07-27,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-08-02,Otro,Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-08-02,"Solicitud pedidos,Otro",Agrosamarios del Huila s. a. s,Huila,Maritza Ferreira,,,
+2021-08-02,Otro,Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-02,Otro,Almacén Mundo Agropecuario ,Huila,Maritza Ferreira,,,
+2021-08-02,"Revisión inventario,Solicitud pedidos,Otro",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-08-02,Solicitud pedidos,veterinaria El Campo ,Huila,Maritza Ferreira,,,
+2021-08-02,Otro,Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-08-03,Otro,Ferreteria San Ignacio,Huila,Maritza Ferreira,,,
+2021-08-03,"Solicitud pedidos,Otro",Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-08-03,"Solicitud pedidos,Otro",Induagro Neiva,Huila,Maritza Ferreira,,,
+2021-08-03,"Cobro cartera,Otro",Asprolibertad,Huila,Maritza Ferreira,,,
+2021-08-03,"Revisión inventario,Otro",Prodiagro E.U,Huila,Maritza Ferreira,,,
+2021-08-03,Otro,Almacén Mundo Agropecuario ,Huila,Maritza Ferreira,,,
+2021-08-02,"Atención al público,Revisión inventario,Solicitud pedidos",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-08-03,"Atención al público,Otro",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-08-03,Atención al público,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-08-03,Atención al público,Agricolas Algeciras ltda,Huila,Lorena Muñoz,,,
+2021-08-01,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-08-04,Otro,Agronorte Tello,Huila,Lorena Muñoz,,,
+2021-08-05,Evento comercial,Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-07,"Cobro cartera,Solicitud pedidos",Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-08,"Revisión inventario,Solicitud pedidos,Otro",agrocosur,Huila,Maritza Ferreira,,,
+2021-08-08,Otro,Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-08-08,"Solicitud pedidos,Otro",Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-09,"Revisión inventario,Solicitud pedidos",Agrocenter del Huila,Huila,Maritza Ferreira,,,
+2021-08-09,"Atención al público,Revisión inventario",Agrosolla,Huila,Teresa Dominguez,,,
+2021-08-11,"Atención al público,Revisión inventario,Otro",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-08-09,"Atención al público,Solicitud pedidos,Revisión inventario",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-08-12,Otro,Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-08-14,"Revisión inventario,Solicitud pedidos",Agropecuaria Brangus,Huila,Maritza Ferreira,,,
+2021-08-14,Solicitud pedidos,Ferreobrero,Huila,Maritza Ferreira,,,
+2021-08-14,Solicitud pedidos,Serviagro Campo verde Algeciras,Huila,Maritza Ferreira,,,
+2021-08-16,"Revisión inventario,Solicitud pedidos",Serviagro Campo verde Algeciras,Huila,Maritza Ferreira,,,
+2021-08-16,"Revisión inventario,Solicitud pedidos",Agroveterinaria La Fauna,Huila,Maritza Ferreira,,,
+2021-08-16,"Revisión inventario,Solicitud pedidos",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Maritza Ferreira,,,
+2021-08-16,"Revisión inventario,Solicitud pedidos",Cadefihuila Algeciras,Huila,Maritza Ferreira,,,
+2021-08-16,"Revisión inventario,Solicitud pedidos",Agricolas Algeciras ltda,Huila,Maritza Ferreira,,,
+2021-08-17,"Revisión inventario,Solicitud pedidos,Otro",Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-17,"Solicitud pedidos,Otro",Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-08-17,"Revisión inventario,Solicitud pedidos,Otro",Almacén Mundo Agropecuario ,Huila,Maritza Ferreira,,,
+2021-08-17,"Solicitud pedidos,Otro",Agrocosur,Huila,Maritza Ferreira,,,
+2021-08-17,"Evento comercial,Otro",Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-08-17,Solicitud pedidos,Prodiagro E.U,Huila,Maritza Ferreira,,,
+2021-08-18,"Solicitud pedidos,Otro",Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-08-18,Solicitud pedidos,Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-08-18,Solicitud pedidos,Agrocosur,Huila,Maritza Ferreira,,,
+2021-08-19,"Revisión inventario,Solicitud pedidos,Otro",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-08-19,Atención al público,Cadefihuila Neiva ,Huila,Maritza Ferreira,,,
+2021-08-19,Otro,Insumos Huila,Huila,Maritza Ferreira,,,
+2021-08-19,Otro,Induagro Neiva,Huila,Maritza Ferreira,,,
+2021-08-16,"Atención al público,Revisión inventario,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-08-21,Otro,Agrocosur,Huila,Maritza Ferreira,,,
+2021-08-21,Solicitud pedidos,Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Carolina Perdomo Forero,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Insumos Huila,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Empresarios del campo,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Eder Ladino,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Prodiagro E.U,Huila,Maritza Ferreira,,,
+2021-08-21,Otro,Agroveterinaria y ferretería Yipaca,Huila,Maritza Ferreira,,,
+2021-08-22,"Revisión inventario,Solicitud pedidos,Otro",Agricola Rio Neiva,Huila,Maritza Ferreira,,,
+2021-08-22,"Revisión inventario,Solicitud pedidos,Otro",Agrícola Rioneiva,Huila,Lorena Muñoz,,,
+2021-08-22,"Atención al público,Solicitud pedidos",Almacén Mundo Agropecuario ,Huila,Lorena Muñoz,,,
+2021-08-23,"Revisión inventario,Otro",Asojuncal,Huila,Maritza Ferreira,,,
+2021-08-23,"Solicitud pedidos,Otro",Agrocosur,Huila,Maritza Ferreira,,,
+2021-08-23,"Solicitud pedidos,Otro",Asojuncal,Huila,Lorena Muñoz,,,
+2021-08-23,Otro,Asprolibertad ,Huila,Maritza Ferreira,,,
+2021-08-23,Otro,Tecnicas Endara,Huila,Maritza Ferreira,,,
+2021-08-23,Otro,Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-24,Solicitud pedidos,Insumos Huila,Huila,Maritza Ferreira,,,
+2021-08-24,"Revisión inventario,Solicitud pedidos,Otro",Comité de ganaderos del Huila ,Huila,Maritza Ferreira,,,
+2021-08-24,Otro,Agrocentro Rivera,Huila,Maritza Ferreira,,,
+2021-08-24,Otro,Agroveterinaria La Fauna,Huila,Maritza Ferreira,,,
+2021-08-24,"Solicitud pedidos,Otro",Agrocosur,Huila,Maritza Ferreira,,,
+2021-08-25,Evento comercial,Agromelgar,Tolima,Omar Angarita,,,
+2021-08-24,Atención al público,Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-08-24,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-08-25,Atención al público,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-08-25,"Cobro cartera,Solicitud pedidos",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-08-25,Solicitud pedidos,Gerardo Quilombo,Huila,Lorena Muñoz,,,
+2021-08-25,"Atención al público,Otro",Agronorte del Huila,Huila,Maritza Ferreira,,,
+2021-08-25,"Atención al público,Otro",Fertillanogrande,Huila,Maritza Ferreira,,,
+2021-08-25,Otro,Carolina Perdomo Forero,Huila,Maritza Ferreira,,,
+2021-08-25,Otro,Karol Daniela Alvarez Zamora,Huila,Maritza Ferreira,,,
+2021-09-02,Otro,Agrosolla,Huila,Teresa Dominguez,,,
+2021-09-01,Solicitud pedidos,Cadefihuila Palermo,Huila,Lorena Muñoz,,,
+2021-09-01,Solicitud pedidos,Cadefihuila Santa Maria,Huila,Lorena Muñoz,,,
+2021-09-02,Solicitud pedidos,Cadefihuila Aipe,Huila,Lorena Muñoz,,,
+2021-09-02,Solicitud pedidos,Cadefihuila Algeciras,Huila,Lorena Muñoz,,,
+2021-09-02,Revisión inventario,Cadefihuila Neiva ,Huila,Lorena Muñoz,,,
+2021-09-02,"Revisión inventario,Cobro cartera",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-09-02,Solicitud pedidos,Gerardo Quilombo,Huila,Lorena Muñoz,,,
+2021-09-02,Solicitud pedidos,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-02,Solicitud pedidos,Almacén Mundo Agropecuario ,Huila,Lorena Muñoz,,,
+2021-09-03,Otro,Disagro de Occidente ,Huila,Teresa Dominguez,,,
+2021-09-07,"Atención al público,Revisión inventario",Agrosolla,Huila,Teresa Dominguez,,,
+2021-09-07,Evento comercial,Agroveterinaria Animals,Tolima,Juan Pablo Arboleda,,,
+2021-09-07,Evento comercial,Agroinsumos Cajamarca,Tolima,Juan Pablo Arboleda,,,
+2021-09-07,Revisión inventario,La fama cajamarca ,Tolima,Juan Pablo Arboleda,,,
+2021-09-07,Solicitud pedidos,La fonda agroartesanal ,Tolima,Juan Pablo Arboleda,,,
+2021-09-08,Evento comercial,Concentrados y Mangueras,Tolima,Juan Pablo Arboleda,,,
+2021-09-08,"Revisión inventario,Cobro cartera",Agropunto Campoalegre ,Tolima,Juan Pablo Arboleda,,,
+2021-09-08,Revisión inventario,agropunto la Cosecha ,Tolima,Juan Pablo Arboleda,,,
+2021-09-08,"Atención al público,Solicitud pedidos",La Familia del Campo,Tolima,Juan Pablo Arboleda,,,
+2021-09-08,Revisión inventario,Central Pecuaria ,Tolima,Juan Pablo Arboleda,,,
+2021-09-10,"Atención al público,Revisión inventario",Agrícola la gaitana ,Huila,Teresa Dominguez,,,
+2022-03-09,Solicitud pedidos,Coagrohuila,Huila,Lorena Muñoz,Lorsban 2.5%dp,1011967920.0,2024-02-27
+2022-03-09,Solicitud pedidos,Coagrohuila,Huila,Lorena Muñoz,Lorsban 4 ec,2756577600.0,2023-07-02
+2022-03-10,Solicitud pedidos,agrocosur,Huila,Lorena Muñoz,Tordon xt,8079170.0,2022-03-14
+2022-03-10,Solicitud pedidos,agrocosur,Huila,Lorena Muñoz,Lorsban 4ec,2552256000.0,2023-07-03
+2022-03-10,Solicitud pedidos,agrocosur,Huila,Lorena Muñoz,Victorius 48sl,4762800.0,2022-03-22
+2022-03-10,Solicitud pedidos,agrocosur,Huila,Lorena Muñoz,Tronador d,2575872.0,2022-04-03
+2022-03-10,Solicitud pedidos,agrocosur,Huila,Lorena Muñoz,Herbox sl,477000.0,2022-03-22
+2022-03-07,Solicitud pedidos,Edisson Palma,Huila,Lorena Muñoz,Tordon xt,66902.0,2022-03-10
+2022-03-07,Solicitud pedidos,Edisson Palma,Huila,Lorena Muñoz,Victorius 48sl,293210.0,2022-03-10
+2021-09-10,Otro,Cadefihuila ,Huila,Lorena Muñoz,,,
+2021-09-11,Otro,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-11,Otro,Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-09-11,Otro,Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-09-11,"Atención al público,Revisión inventario",Distriagro del sur (La Plata 1),Huila,Julio Velasquez,,,
+2021-09-12,Atención al público,Distriagro del sur (Garzón),Huila,Julio Velasquez,,,
+2021-09-13,Atención al público,Central del Agro (pital),Huila,Julio Velasquez,,,
+2021-09-15,"Atención al público,Revisión inventario",Agroinsumos el purace ,Huila,Teresa Dominguez,,,
+2021-09-15,"Atención al público,Revisión inventario",El Aliado del campo,Huila,Teresa Dominguez,,,
+2021-09-15,"Atención al público,Revisión inventario",AgroisnosB,Huila,Teresa Dominguez,,,
+2021-09-14,Otro,Asojuncal,Huila,Lorena Muñoz,,,
+2021-09-14,Otro,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-15,Otro,Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-09-15,Otro,Agrícola Rioneiva,Huila,Lorena Muñoz,,,
+2021-09-15,Otro,Cultiarroz ,Huila,Lorena Muñoz,,,
+2021-09-16,"Atención al público,Revisión inventario",Distriagro del sur (La Plata 1),Huila,Julio Velasquez,,,
+2021-09-16,"Atención al público,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-16,Solicitud pedidos,Almacén Mundo Agropecuario ,Huila,Lorena Muñoz,,,
+2021-09-16,Solicitud pedidos,Coagrohuila,Huila,Lorena Muñoz,,,
+2021-09-16,"Cobro cartera,Solicitud pedidos",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-09-17,"Solicitud pedidos,Otro",Cadefihuila ,Huila,Lorena Muñoz,,,
+2021-09-19,"Atención al público,Revisión inventario",Agrícola la gaitana ,Huila,Teresa Dominguez,,,
+2021-09-17,Otro,Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-19,Otro,agrocosur,Huila,Lorena Muñoz,,,
+2021-09-22,"Atención al público,Revisión inventario",JC Agricola,Huila,Teresa Dominguez,,,
+2021-09-23,"Atención al público,Revisión inventario",AgroisnosB,Huila,Teresa Dominguez,,,
+2021-09-23,"Cobro cartera,Solicitud pedidos",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-23,Solicitud pedidos,Almacén Mundo Agropecuario ,Huila,Lorena Muñoz,,,
+2021-09-22,Solicitud pedidos,agrocosur,Huila,Lorena Muñoz,,,
+2021-09-22,Solicitud pedidos,Edisson Palma,Huila,Lorena Muñoz,,,
+2021-09-24,"Atención al público,Revisión inventario",Disagro de Occidente ,Huila,Teresa Dominguez,,,
+2021-09-25,"Revisión inventario,Otro",Agroveterinaria La Fauna,Huila,Lorena Muñoz,,,
+2021-09-25,Otro,Insumos Huila,Huila,Lorena Muñoz,,,
+2021-09-24,"Revisión inventario,Otro",Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-09-24,"Revisión inventario,Otro",Asojuncal,Huila,Lorena Muñoz,,,
+2021-09-25,"Revisión inventario,Otro",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-09-26,"Atención al público,Revisión inventario,Evento comercial",Disagro de Occidente ,Huila,Teresa Dominguez,,,
+2021-09-25,Revisión inventario,Agricolas Algeciras ltda,Huila,Lorena Muñoz,,,
+2021-09-25,"Revisión inventario,Otro",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-09-28,"Revisión inventario,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-09-30,Otro,Asojuncal,Huila,Lorena Muñoz,,,
+2021-09-30,"Negociación,Otro",Cultiarroz ,Huila,Lorena Muñoz,,,
+2021-09-30,"Negociación,Otro",Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-09-30,"Atención al público,Revisión inventario",El Aliado del campo,Huila,Teresa Dominguez,,,
+2021-09-30,"Atención al público,Revisión inventario",Insumos Baykim,Huila,Teresa Dominguez,,,
+2021-10-02,"Atención al público,Revisión inventario",Agrosolla,Huila,Teresa Dominguez,,,
+2021-10-02,Negociación,agrocosur,Huila,Lorena Muñoz,,,
+2021-10-01,Negociación,agrocosur,Huila,Lorena Muñoz,,,
+2021-10-01,Negociación,Cadefihuila ,Huila,Lorena Muñoz,,,
+2021-10-01,Otro,Almacén Mundo Agropecuario ,Huila,Lorena Muñoz,,,
+2021-09-30,Negociación,Agroveterinaria La Fauna,Huila,Lorena Muñoz,,,
+2021-09-30,Negociación,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-09-30,Negociación,Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-09-30,"Cobro cartera,Negociación",Inagroscol,Huila,Lorena Muñoz,,,
+2021-10-02,"Atención al público,Revisión inventario,Negociación",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-02,"Atención al público,Cobro cartera,Negociación",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-10-02,Otro,veterinaria El Campo ,Huila,Lorena Muñoz,,,
+2021-10-04,Otro,Cadefihuila ,Huila,Lorena Muñoz,,,
+2021-10-04,Otro,Coagrohuila,Huila,Lorena Muñoz,,,
+2021-10-05,Negociación,Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-10-05,"Cobro cartera,Otro",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-10-07,Otro,Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-10-06,"Atención al público,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-06,"Negociación,Otro",Coagrohuila,Huila,Lorena Muñoz,,,
+2021-10-07,Otro,Agromark  S.A.,Huila,Lorena Muñoz,,,
+2021-10-09,"Atención al público,Otro",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-10-09,Otro,Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-10-09,"Atención al público,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-09,"Negociación,Otro",agrocosur,Huila,Lorena Muñoz,,,
+2021-10-12,"Cobro cartera,Otro",Mi rancho,Huila,Teresa Dominguez,,,
+2021-10-13,"Negociación,Otro",agrocosur,Huila,Lorena Muñoz,,,
+2021-10-13,"Atención al público,Negociación,Otro",Cadefihuila Neiva ,Huila,Lorena Muñoz,,,
+2021-10-12,Otro,Asojuncal,Huila,Lorena Muñoz,,,
+2021-10-12,"Revisión inventario,Otro",Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-10-12,Otro,Cultiarroz ,Huila,Lorena Muñoz,,,
+2021-10-18,Otro,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-10-18,"Revisión inventario,Otro",Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-10-11,"Negociación,Otro",Cadefihuila Neiva ,Huila,Lorena Muñoz,,,
+2021-10-11,Otro,Agrosamarios del Huila s. a. s,Huila,Lorena Muñoz,,,
+2021-10-11,Otro,Gerardo Quilombo,Huila,Lorena Muñoz,,,
+2021-10-10,Otro,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-10-10,"Atención al público,Negociación,Otro",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-10-12,Otro,agrocosur,Huila,Lorena Muñoz,,,
+2021-10-11,"Atención al público,Negociación,Otro",Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-10-19,"Atención al público,Revisión inventario,Otro",Gerardo Quilombo,Huila,Lorena Muñoz,,,
+2021-10-19,"Atención al público,Revisión inventario,Negociación,Otro",Cadefihuila Santa Maria,Huila,Lorena Muñoz,,,
+2021-10-19,"Atención al público,Negociación,Otro",Soluagro Seve comercializadora,Huila,Lorena Muñoz,,,
+2021-10-19,"Revisión inventario,Otro",Coagrohuila Santa Maria,Huila,Lorena Muñoz,,,
+2021-10-19,"Negociación,Otro",agrocosur,Huila,Lorena Muñoz,,,
+2021-10-20,Otro,Asojuncal,Huila,Lorena Muñoz,,,
+2021-10-20,Otro,Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-10-20,Otro,Cadefihuila ,Huila,Lorena Muñoz,,,
+2021-10-20,"Negociación,Otro",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-10-25,Otro,Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-10-25,"Negociación,Otro",Cultiarroz ,Huila,Lorena Muñoz,,,
+2021-10-25,"Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-26,Otro,Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-10-26,Otro,OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-10-26,Otro,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-10-26,"Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-27,"Cobro cartera,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-27,Otro,Agroveterinaria La Fauna,Huila,Lorena Muñoz,,,
+2021-10-27,Otro,OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-10-28,"Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-10-28,"Cobro cartera,Negociación,Otro",Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-10-30,"Atención al público,Cobro cartera,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-11-02,Atención al público,Vivero Versalles ,Huila,Teresa Dominguez,,,
+2021-11-02,"Revisión inventario,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-11-02,"Negociación,Otro",Almacén Mundo Agropecuario ,Huila,Lorena Muñoz,,,
+2021-11-02,Otro,Agromark  S.A.,Huila,Lorena Muñoz,,,
+2021-11-03,"Atención al público,Revisión inventario,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-11-03,Otro,Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-11-03,"Revisión inventario,Otro",OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-11-02,"Revisión inventario,Otro",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-11-06,"Negociación,Otro",Comité de ganaderos del Huila ,Huila,Lorena Muñoz,,,
+2021-11-09,"Atención al público,Negociación",agrocosur,Huila,Lorena Muñoz,,,
+2021-11-09,"Atención al público,Cobro cartera,Negociación",Agrocentro Rivera,Huila,Lorena Muñoz,,,
+2021-11-09,"Negociación,Otro",Asojuncal,Huila,Lorena Muñoz,,,
+2021-11-10,"Atención al público,Revisión inventario",Agroinsumos el purace ,Huila,Teresa Dominguez,,,
+2021-11-11,"Atención al público,Otro",Edisson Palma,Huila,Lorena Muñoz,,,
+2021-11-16,"Cobro cartera,Otro",Agricola Rio Neiva,Huila,Lorena Muñoz,,,
+2021-11-16,Otro,Fertillanogrande,Huila,Lorena Muñoz,,,
+2021-11-16,Otro,Cultiarroz ,Huila,Lorena Muñoz,,,
+2021-11-16,Otro,Asojuncal,Huila,Lorena Muñoz,,,
+2021-11-18,Otro,La casa del ganadero ,Huila,Pedro Zapata,,,
+2021-11-17,"Atención al público,Revisión inventario,Negociación,Otro",Agronorte del Huila,Huila,Lorena Muñoz,,,
+2021-11-17,"Negociación,Otro",Coagrohuila,Huila,Lorena Muñoz,,,
+2021-11-18,Otro,Agromaquinas del Huila ,Huila,Pedro Zapata,,,
+2021-11-17,Otro,Agroveterinaria La Fauna,Huila,Lorena Muñoz,,,
+2021-11-18,Otro,Agrofuturo,Huila,Pedro Zapata,,,
+2021-11-18,Otro,Induagro Neiva,Huila,Pedro Zapata,,,
+2021-11-17,Otro,Edisson Palma,Huila,Lorena Muñoz,,,
+2021-11-18,Otro,Almacén Mundo Agropecuario ,Huila,Pedro Zapata,,,
+2021-11-18,"Atención al público,Revisión inventario",Agronorte del Huila,Huila,Pedro Zapata,,,
+2021-11-18,Otro,Coagrohuila,Huila,Pedro Zapata,,,
+2022-05-18,"Negociación,Otro",Empresarios del campo,Huila,Pedro Zapata,Closer 240 sc,930000.0,2022-05-22
+2022-05-18,"Negociación,Otro",Empresarios del campo,Huila,Pedro Zapata,Topgun,550000.0,2022-05-22
+2021-11-19,"Negociación,Otro",Agricolas Algeciras ltda,Huila,Pedro Zapata,,,
+2021-11-19,"Negociación,Otro",Agricolas Algeciras ltda,Huila,Lorena Muñoz,,,
+2021-11-19,Otro,Coagrohuila Algeciras,Huila,Lorena Muñoz,,,
+2021-11-19,Otro,coagrohuila algeciras ,Huila,Pedro Zapata,,,
+2021-11-19,Otro,OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Pedro Zapata,,,
+2021-11-19,Otro,OAS Agrícolas El resplandor de Algeciras s. a. s,Huila,Lorena Muñoz,,,
+2021-11-19,Otro,insumos Agropacifico,Huila,Lorena Muñoz,,,
+2021-11-19,Otro,Serviagro Campo verde Algeciras,Huila,Lorena Muñoz,,,
+2021-11-19,Otro,Agroveterinaria El Country,Huila,Lorena Muñoz,,,
+2021-11-19,"Cobro cartera,Otro",Agropecuaria Andina,Huila,Lorena Muñoz,,,
+2021-11-19,Otro,Serviagro Campo verde Algeciras,Huila,Pedro Zapata,,,
+2021-11-19,"Negociación,Otro",Agroveterinaria La Fauna,Huila,Pedro Zapata,,,
+2021-11-19,Otro,Agroveterinaria El Country,Huila,Pedro Zapata,,,
+2021-11-19,Otro,Agrocentro Rivera,Huila,Pedro Zapata,,,
+2021-11-19,"Cobro cartera,Otro",Agropecuaria Andina,Huila,Pedro Zapata,,,
+2021-11-20,Otro,Molino Roa Campoalegre,Huila,Lorena Muñoz,,,
+2021-11-20,Otro,Fertillanogrande,Huila,Lorena Muñoz,,,
+2021-11-16,"Atención al público,Revisión inventario",Distriagro del sur (Garzón),Huila,Julio Velasquez,,,
+2021-11-17,"Atención al público,Revisión inventario",Serviagro (Guadalupe),Huila,Julio Velasquez,,,
+2021-11-17,"Atención al público,Revisión inventario",Distriagro del sur (Guadalupe),Huila,Julio Velasquez,,,
+2021-11-18,"Atención al público,Revisión inventario",Distriagro del sur (Suaza),Huila,Julio Velasquez,,,
+2021-11-20,"Atención al público,Revisión inventario",Distriagro del sur (La Plata 1),Huila,Julio Velasquez,,,

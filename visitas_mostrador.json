@@ -1,0 +1,3494 @@
+{
+  "Ft65tZUt9q": {
+    "fecha": "2021-05-03",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "La fama cajamarca ",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Tordon xt",
+        "valor": 404000,
+        "fecha_despacho": "2021-05-07"
+      }
+    ]
+  },
+  "QQr7ZzJ8bi": {
+    "fecha": "2021-05-04",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira",
+    "pedido": [
+      {
+        "producto": "Tordon xt",
+        "valor": 480000,
+        "fecha_despacho": "2021-05-08"
+      },
+      {
+        "producto": "Tuttela 75wdg",
+        "valor": 90000,
+        "fecha_despacho": "2021-05-06"
+      },
+      {
+        "producto": "Tronador d",
+        "valor": 200000,
+        "fecha_despacho": "2021-05-08"
+      }
+    ]
+  },
+  "tE_rTbmiGY": {
+    "fecha": "2021-05-04",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira",
+    "pedido": [
+      {
+        "producto": "Clincher ec",
+        "valor": 1905000,
+        "fecha_despacho": "2021-05-09"
+      }
+    ]
+  },
+  "HYnJkTc39o": {
+    "fecha": "2021-05-11",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira",
+    "pedido": [
+      {
+        "producto": "Dithane m-45",
+        "valor": 2275000,
+        "fecha_despacho": "2021-06-06"
+      }
+    ]
+  },
+  "YGzx_VABtK": {
+    "fecha": "2021-05-12",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agrovariedades el Lago",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Tordon xt",
+        "valor": 407000,
+        "fecha_despacho": "2021-05-16"
+      },
+      {
+        "producto": "Lorsban 2.5%dp",
+        "valor": 864000,
+        "fecha_despacho": "2021-06-05"
+      },
+      {
+        "producto": "Cronos 60wg",
+        "valor": 108000,
+        "fecha_despacho": "2021-05-15"
+      },
+      {
+        "producto": "Estelar 1280",
+        "valor": 1660000,
+        "fecha_despacho": "2021-05-20"
+      },
+      {
+        "producto": "Tordon xt",
+        "valor": 900000,
+        "fecha_despacho": "2021-05-24"
+      },
+      {
+        "producto": "Dithane m-45",
+        "valor": 2600000,
+        "fecha_despacho": "2021-06-07"
+      },
+      {
+        "producto": "Crecifol 103010",
+        "valor": 992000,
+        "fecha_despacho": "2021-05-28"
+      },
+      {
+        "producto": "Ambox",
+        "valor": 123000,
+        "fecha_despacho": "2021-05-15"
+      },
+      {
+        "producto": "Estelar 1280",
+        "valor": 3888000,
+        "fecha_despacho": "2021-06-05"
+      }
+    ]
+  },
+  "fys0rKl1lY": {
+    "fecha": "2021-05-20",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira",
+    "pedido": [
+      {
+        "producto": "Tronador d",
+        "valor": 210000000,
+        "fecha_despacho": "2021-07-19"
+      }
+    ]
+  },
+  "g1fEcid37L": {
+    "fecha": "2021-05-20",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agroinsumos La Primera",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Cobrethane",
+        "valor": 13500,
+        "fecha_despacho": "2021-05-22"
+      },
+      {
+        "producto": "Capello",
+        "valor": 21125000,
+        "fecha_despacho": "2023-03-01"
+      }
+    ]
+  },
+  "gv1uNpR19t": {
+    "fecha": "2021-05-20",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Abonos Rovira",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Lepecid",
+        "valor": 360000,
+        "fecha_despacho": "2021-06-07"
+      },
+      {
+        "producto": "Lorsban 2,5% dp",
+        "valor": 907200,
+        "fecha_despacho": "2021-06-13"
+      },
+      {
+        "producto": "Santimec",
+        "valor": 18773,
+        "fecha_despacho": "2023-02-19"
+      }
+    ]
+  },
+  "hNc5MjXHYw": {
+    "fecha": "2021-05-20",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agroinsumos La Cordillera",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Crecifol llenado",
+        "valor": 25000,
+        "fecha_despacho": "2021-05-25"
+      },
+      {
+        "producto": "Dorphum 60wp",
+        "valor": 198000,
+        "fecha_despacho": "2021-05-23"
+      }
+    ]
+  },
+  "EDAbZP8Yl0": {
+    "fecha": "2021-05-21",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agro Leo",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Exalt 60 sc",
+        "valor": 19250000,
+        "fecha_despacho": "2022-10-03"
+      }
+    ]
+  },
+  "XvfzZH-Dm4": {
+    "fecha": "2021-05-24",
+    "objetivo": "Cobro cartera,Solicitud pedidos",
+    "tienda": "Agroinsumos Cajamarca",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Antorch",
+        "valor": 109600,
+        "fecha_despacho": "2021-05-25"
+      }
+    ]
+  },
+  "sMffGj3mSV": {
+    "fecha": "2021-05-26",
+    "objetivo": "Atención al público",
+    "tienda": "la finca Ferreagro ",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Tordon xt",
+        "valor": 612500,
+        "fecha_despacho": "2021-05-29"
+      },
+      {
+        "producto": "Cronos 60wg",
+        "valor": 625000,
+        "fecha_despacho": "2021-09-03"
+      },
+      {
+        "producto": "Tordon xt",
+        "valor": 750000,
+        "fecha_despacho": "2021-06-07"
+      }
+    ]
+  },
+  "k-vMcm6Ehy": {
+    "fecha": "2021-05-30",
+    "objetivo": "Atención al público",
+    "tienda": "Agroveterinaria Animals",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Buril",
+        "valor": 5250000,
+        "fecha_despacho": "2022-03-26"
+      },
+      {
+        "producto": "Exalt 60 sc",
+        "valor": 207000,
+        "fecha_despacho": "2021-06-03"
+      },
+      {
+        "producto": "Crecifol llenado",
+        "valor": 198000,
+        "fecha_despacho": "2021-06-05"
+      },
+      {
+        "producto": "Koyote",
+        "valor": 333333,
+        "fecha_despacho": "2021-06-05"
+      },
+      {
+        "producto": "Capello",
+        "valor": 414000,
+        "fecha_despacho": "2021-06-01"
+      },
+      {
+        "producto": "Crecifol 103010",
+        "valor": 153000,
+        "fecha_despacho": "2021-06-03"
+      },
+      {
+        "producto": "Closer 240 sc",
+        "valor": 122010000,
+        "fecha_despacho": "2025-03-30"
+      },
+      {
+        "producto": "Koyote",
+        "valor": 62500000,
+        "fecha_despacho": "2028-04-03"
+      },
+      {
+        "producto": "Rally 40 wp",
+        "valor": 16200000,
+        "fecha_despacho": "2023-01-20"
+      }
+    ]
+  },
+  "zuTilfF6HK": {
+    "fecha": "2021-05-27",
+    "objetivo": "Revisión inventario",
+    "tienda": "Fibras del Interior",
+    "departamento": "Tolima",
+    "vendedor": "Omar Angarita",
+    "pedido": [
+      {
+        "producto": "Goal 480 sc",
+        "valor": 70537500,
+        "fecha_despacho": "2021-06-14"
+      }
+    ]
+  },
+  "kLQE97ZrJR": {
+    "fecha": "2021-06-09",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira",
+    "pedido": [
+      {
+        "producto": "Cronos 60wg",
+        "valor": 28125000,
+        "fecha_despacho": "2021-07-29"
+      }
+    ]
+  },
+  "XX7KkKM7hY": {
+    "fecha": "2021-06-11",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Wilson Guzmán Quimbaya",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Rally ec",
+        "valor": 792000000,
+        "fecha_despacho": "2031-04-20"
+      }
+    ]
+  },
+  "daJJ3h_p9U": {
+    "fecha": "2021-06-25",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Verdict 1400",
+        "valor": 35000,
+        "fecha_despacho": "2021-06-26"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 14800,
+        "fecha_despacho": "2021-06-26"
+      }
+    ]
+  },
+  "_7_jeI32Wo": {
+    "fecha": "2021-06-26",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Closer 240 sc",
+        "valor": 61250,
+        "fecha_despacho": "2021-06-27"
+      }
+    ]
+  },
+  "NnsuY4KGUa": {
+    "fecha": "2021-06-27",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Gerardo Quilombo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Victorius 48sl",
+        "valor": 22500,
+        "fecha_despacho": "2021-06-28"
+      },
+      {
+        "producto": "Ambox",
+        "valor": 97500,
+        "fecha_despacho": "2021-06-28"
+      },
+      {
+        "producto": "Victorius 48sl",
+        "valor": 85500,
+        "fecha_despacho": "2021-06-28"
+      }
+    ]
+  },
+  "czxrEw8Fmm": {
+    "fecha": "2021-06-28",
+    "objetivo": "Atención al público,Solicitud pedidos,Revisión inventario",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arpon",
+        "valor": 14000,
+        "fecha_despacho": "2021-06-29"
+      },
+      {
+        "producto": "Cronos 60wg",
+        "valor": 69000,
+        "fecha_despacho": "2021-06-29"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 130000,
+        "fecha_despacho": "2021-06-29"
+      }
+    ]
+  },
+  "8vRpaY5qjO": {
+    "fecha": "2021-06-29",
+    "objetivo": "Atención al público,Solicitud pedidos,Revisión inventario",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Estelar 1280",
+        "valor": 30000,
+        "fecha_despacho": "2021-06-30"
+      }
+    ]
+  },
+  "pgdrgZJWh1": {
+    "fecha": "2021-07-02",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Tronador d",
+        "valor": 42750,
+        "fecha_despacho": "2021-07-03"
+      }
+    ]
+  },
+  "jKYoK0FyLr": {
+    "fecha": "2021-07-03",
+    "objetivo": "Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arpon",
+        "valor": 14600,
+        "fecha_despacho": "2021-07-04"
+      },
+      {
+        "producto": "Crecifol 103010",
+        "valor": 45000,
+        "fecha_despacho": "2021-07-05"
+      }
+    ]
+  },
+  "nyGa9iRGK1": {
+    "fecha": "2021-07-04",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Lorsban 2,5% dp",
+        "valor": 30000,
+        "fecha_despacho": "2021-07-07"
+      },
+      {
+        "producto": "Estelar 1280",
+        "valor": 137500,
+        "fecha_despacho": "2021-07-05"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 18750,
+        "fecha_despacho": "2021-07-05"
+      },
+      {
+        "producto": "Estelar 1280",
+        "valor": 37500,
+        "fecha_despacho": "2021-07-05"
+      }
+    ]
+  },
+  "cG2MJ8FOPG": {
+    "fecha": "2021-07-06",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Dorphum 60wp",
+        "valor": 27000,
+        "fecha_despacho": "2021-07-07"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 56250,
+        "fecha_despacho": "2021-07-09"
+      }
+    ]
+  },
+  "mGy1Vj7kzS": {
+    "fecha": "2021-07-07",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arpon",
+        "valor": 14400,
+        "fecha_despacho": "2021-07-08"
+      }
+    ]
+  },
+  "9mW23BMAak": {
+    "fecha": "2021-07-09",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Tronador d",
+        "valor": 57000,
+        "fecha_despacho": "2021-07-10"
+      },
+      {
+        "producto": "Lorsban 2,5% dp",
+        "valor": 27200,
+        "fecha_despacho": "2021-07-13"
+      },
+      {
+        "producto": "Lepecid",
+        "valor": 15000,
+        "fecha_despacho": "2021-07-10"
+      }
+    ]
+  },
+  "5t7Orjw7mB": {
+    "fecha": "2021-07-10",
+    "objetivo": "Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Crecifol llenado",
+        "valor": 30000,
+        "fecha_despacho": "2021-07-11"
+      },
+      {
+        "producto": "Topgun",
+        "valor": 28750,
+        "fecha_despacho": "2021-07-11"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 37500,
+        "fecha_despacho": "2021-07-12"
+      },
+      {
+        "producto": "Imperius",
+        "valor": 72500,
+        "fecha_despacho": "2021-07-11"
+      },
+      {
+        "producto": "Estelartm 1280 sl",
+        "valor": 72500,
+        "fecha_despacho": "2021-07-12"
+      },
+      {
+        "producto": "Topgun",
+        "valor": 208750,
+        "fecha_despacho": "2021-07-11"
+      },
+      {
+        "producto": "Novaplant ca-b-zn",
+        "valor": 47500,
+        "fecha_despacho": "2021-07-11"
+      }
+    ]
+  },
+  "M0b8JEQ96y": {
+    "fecha": "2021-07-12",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Capello",
+        "valor": 120000,
+        "fecha_despacho": "2021-07-14"
+      }
+    ]
+  },
+  "o4rdYUbgk5": {
+    "fecha": "2021-07-13",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Cadefihuila Palermo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Tordon xt",
+        "valor": 144625,
+        "fecha_despacho": "2021-07-14"
+      },
+      {
+        "producto": "Cronos 60wg",
+        "valor": 25625,
+        "fecha_despacho": "2021-07-18"
+      }
+    ]
+  },
+  "pI-DBMDmlX": {
+    "fecha": "2021-07-14",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Tronador d",
+        "valor": 32625,
+        "fecha_despacho": "2021-07-17"
+      },
+      {
+        "producto": "Crecifol 103010",
+        "valor": 15000,
+        "fecha_despacho": "2021-07-15"
+      },
+      {
+        "producto": "Estelartm 1280 sl",
+        "valor": 20100,
+        "fecha_despacho": "2021-07-15"
+      }
+    ]
+  },
+  "D4CAGLWEDW": {
+    "fecha": "2021-07-15",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Lorsban 2,5% dp",
+        "valor": 98000,
+        "fecha_despacho": "2021-07-22"
+      },
+      {
+        "producto": "Capello",
+        "valor": 80000,
+        "fecha_despacho": "2021-07-16"
+      }
+    ]
+  },
+  "fb_i9FzTkK": {
+    "fecha": "2021-07-16",
+    "objetivo": "Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Estelartm 1280 sl",
+        "valor": 37250,
+        "fecha_despacho": "2021-07-17"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 18250,
+        "fecha_despacho": "2021-07-17"
+      }
+    ]
+  },
+  "AnpStQVpdx": {
+    "fecha": "2021-07-19",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Renovación Agropecuaria",
+    "departamento": "Tolima",
+    "vendedor": "Ernesto Sánchez",
+    "pedido": [
+      {
+        "producto": "Tronador d",
+        "valor": 1230000,
+        "fecha_despacho": "2021-08-08"
+      }
+    ]
+  },
+  "XpHqKWOeiv": {
+    "fecha": "2021-07-22",
+    "objetivo": "Atención al público",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Dithane m-45 wp nt",
+        "valor": 4650,
+        "fecha_despacho": "2021-07-23"
+      }
+    ]
+  },
+  "jK_Y7Gik3C": {
+    "fecha": "2021-07-22",
+    "objetivo": "Atención al público,Revisión inventario,Cobro cartera,Solicitud pedidos",
+    "tienda": "Surtiagro Gallardo",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez",
+    "pedido": [
+      {
+        "producto": "Tordon xt",
+        "valor": 75000,
+        "fecha_despacho": "2021-07-25"
+      }
+    ]
+  },
+  "NwCy36DDEQ": {
+    "fecha": "2021-07-24",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Capello",
+        "valor": 80000,
+        "fecha_despacho": "2021-07-25"
+      },
+      {
+        "producto": "Estelartm 1280 sl",
+        "valor": 60000,
+        "fecha_despacho": "2021-07-25"
+      },
+      {
+        "producto": "Predostar 300 gr",
+        "valor": 60000,
+        "fecha_despacho": "2021-07-25"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 30000,
+        "fecha_despacho": "2021-07-25"
+      },
+      {
+        "producto": "Lorsban 2.5%dp",
+        "valor": 84000,
+        "fecha_despacho": "2021-07-30"
+      }
+    ]
+  },
+  "HwUMAU2nS2": {
+    "fecha": "2021-07-25",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Dithane m-45 wp nt",
+        "valor": 18000,
+        "fecha_despacho": "2021-07-26"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 15000,
+        "fecha_despacho": "2021-07-26"
+      }
+    ]
+  },
+  "kO5VCULFjt": {
+    "fecha": "2021-07-27",
+    "objetivo": "Atención al público,Solicitud pedidos,Revisión inventario",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Santimec",
+        "valor": 645000,
+        "fecha_despacho": "2021-07-30"
+      },
+      {
+        "producto": "Dorphum 60wp",
+        "valor": 882000,
+        "fecha_despacho": "2021-08-10"
+      },
+      {
+        "producto": "Cobrethane",
+        "valor": 64500,
+        "fecha_despacho": "2021-07-29"
+      }
+    ]
+  },
+  "of0uz3U82b": {
+    "fecha": "2021-07-29",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Cadefihuila Palermo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Crecifol 103010",
+        "valor": 22500,
+        "fecha_despacho": "2021-07-30"
+      }
+    ]
+  },
+  "szALYB1NlY": {
+    "fecha": "2021-07-31",
+    "objetivo": "Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arpon",
+        "valor": 15000,
+        "fecha_despacho": "2021-08-01"
+      },
+      {
+        "producto": "Crecifol 103010",
+        "valor": 18000,
+        "fecha_despacho": "2021-08-01"
+      }
+    ]
+  },
+  "dAtks3L50-": {
+    "fecha": "2021-08-02",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Exalt 60 sc",
+        "valor": 46250,
+        "fecha_despacho": "2021-08-03"
+      },
+      {
+        "producto": "Tronador d",
+        "valor": 18750,
+        "fecha_despacho": "2021-08-03"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 18750,
+        "fecha_despacho": "2021-08-03"
+      },
+      {
+        "producto": "Capello",
+        "valor": 50000,
+        "fecha_despacho": "2021-08-03"
+      }
+    ]
+  },
+  "atFObpwcmG": {
+    "fecha": "2021-08-04",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Cadefihuila Palermo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Victorius 48sl",
+        "valor": 17875,
+        "fecha_despacho": "2021-08-05"
+      }
+    ]
+  },
+  "QwAqscdSq0": {
+    "fecha": "2021-08-09",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Rally 40 wp",
+        "valor": 32500,
+        "fecha_despacho": "2021-08-10"
+      },
+      {
+        "producto": "Antorch",
+        "valor": 67500,
+        "fecha_despacho": "2021-08-10"
+      }
+    ]
+  },
+  "eVGyfiDBKe": {
+    "fecha": "2021-08-10",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Predostar 300 gr",
+        "valor": 44000,
+        "fecha_despacho": "2021-08-12"
+      },
+      {
+        "producto": "Exalt 60 sc",
+        "valor": 36300,
+        "fecha_despacho": "2021-08-11"
+      },
+      {
+        "producto": "Cobrethane ",
+        "valor": 26500,
+        "fecha_despacho": "2021-08-11"
+      }
+    ]
+  },
+  "2PA5Zjy7qK": {
+    "fecha": "2021-08-17",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arrasador 757",
+        "valor": 302400,
+        "fecha_despacho": "2021-08-23"
+      },
+      {
+        "producto": "Santimec",
+        "valor": 48750,
+        "fecha_despacho": "2021-08-18"
+      },
+      {
+        "producto": "Arpon",
+        "valor": 35000,
+        "fecha_despacho": "2021-08-19"
+      }
+    ]
+  },
+  "sgpNl6__O3": {
+    "fecha": "2021-08-23",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arpon",
+        "valor": 35000,
+        "fecha_despacho": "2021-08-25"
+      },
+      {
+        "producto": "Lorsban 2,5% dp",
+        "valor": 9250,
+        "fecha_despacho": "2021-08-24"
+      },
+      {
+        "producto": "Santimec",
+        "valor": 42500,
+        "fecha_despacho": "2021-08-24"
+      },
+      {
+        "producto": "Capello",
+        "valor": 200000,
+        "fecha_despacho": "2021-08-27"
+      },
+      {
+        "producto": "Predostar 300 gr",
+        "valor": 28750,
+        "fecha_despacho": "2021-08-24"
+      }
+    ]
+  },
+  "Bt2-Ij7XUh": {
+    "fecha": "2021-08-27",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Santimec",
+        "valor": 43312,
+        "fecha_despacho": "2021-08-28"
+      },
+      {
+        "producto": "Buril",
+        "valor": 31250,
+        "fecha_despacho": "2021-08-28"
+      },
+      {
+        "producto": "Intrepid",
+        "valor": 31500,
+        "fecha_despacho": "2021-08-28"
+      }
+    ]
+  },
+  "B5AcqsOr8O": {
+    "fecha": "2021-08-31",
+    "objetivo": "Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Arpon",
+        "valor": 11025,
+        "fecha_despacho": "2021-09-01"
+      },
+      {
+        "producto": "Exalt 60 sc",
+        "valor": 27000,
+        "fecha_despacho": "2021-09-01"
+      }
+    ]
+  },
+  "HC1QSmLCvv": {
+    "fecha": "2021-09-27",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Nutriabinos del sur ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez",
+    "pedido": [
+      {
+        "producto": "Intrepid",
+        "valor": 412,
+        "fecha_despacho": "2021-09-30"
+      }
+    ]
+  },
+  "V6t3BRqlFt": {
+    "fecha": "2021-07-08",
+    "objetivo": "Otro",
+    "tienda": "Ferreagro",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "VF94Gppyun": {
+    "fecha": "2021-07-08",
+    "objetivo": "Otro",
+    "tienda": "DISAGRO  de occidente S.A.S ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "COkVhMaD0-": {
+    "fecha": "2021-07-11",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Nutriabinos del sur ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "CtD5TYJ9Uv": {
+    "fecha": "2022-01-11",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrosolla",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez",
+    "pedido": [
+      {
+        "producto": "Herbox sl",
+        "valor": 40500,
+        "fecha_despacho": "2022-01-14"
+      },
+      {
+        "producto": "Kruga",
+        "valor": 52,
+        "fecha_despacho": "2022-01-12"
+      }
+    ]
+  },
+  "-kE0Qi1YB9": {
+    "fecha": "2021-07-03",
+    "objetivo": "Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "-w8FKWY4Wu": {
+    "fecha": "2021-07-03",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "040cixrlE2": {
+    "fecha": "2021-07-03",
+    "objetivo": "Otro",
+    "tienda": "Agromaquinas del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "0EziVIW19s": {
+    "fecha": "2021-07-03",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Induagro Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "0OhZ09jUDT": {
+    "fecha": "2021-07-03",
+    "objetivo": "Otro",
+    "tienda": "Distrimotores de Colombia ",
+    "departamento": "Caquetá",
+    "vendedor": "Lorena Muñoz"
+  },
+  "0U_cy6GVPC": {
+    "fecha": "2021-07-03",
+    "objetivo": "Otro",
+    "tienda": "Tecnicas Endara",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "0fJ6YTXFZ4": {
+    "fecha": "2021-07-03",
+    "objetivo": "Otro",
+    "tienda": "La casa del ganadero ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "105_U1uN1f": {
+    "fecha": "2021-07-04",
+    "objetivo": "Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "19R5k1RfWC": {
+    "fecha": "2021-07-04",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria El Country",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2H8uOVPSq0": {
+    "fecha": "2021-07-04",
+    "objetivo": "Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2RCTMG-3aW": {
+    "fecha": "2021-07-04",
+    "objetivo": "Otro",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2fEF_aq78q": {
+    "fecha": "2021-07-05",
+    "objetivo": "Otro,Solicitud pedidos",
+    "tienda": "Insumos Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2oYre-kdY4": {
+    "fecha": "2021-07-06",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrícola Rioneiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2zOvgvtCP4": {
+    "fecha": "2021-07-06",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "36okAu4ZSr": {
+    "fecha": "2021-07-07",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3KonHQhsS3": {
+    "fecha": "2021-07-11",
+    "objetivo": "Otro,Solicitud pedidos,Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3SOgp5pJDk": {
+    "fecha": "2021-07-11",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3bqLCPFRzr": {
+    "fecha": "2021-07-12",
+    "objetivo": "Atención al público,Solicitud pedidos,Revisión inventario",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3oNwB0RgEt": {
+    "fecha": "2021-07-12",
+    "objetivo": "Solicitud pedidos,Revisión inventario,Otro",
+    "tienda": "Inagroscol",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "qc8gfUMXKX": {
+    "fecha": "2021-07-13",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "El Aliado del campo",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "qeh-loshX4": {
+    "fecha": "2021-07-13",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "AgroisnosB",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "HVow114jNL": {
+    "fecha": "2021-07-13",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Insumos Baykim",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "1b0ja_J_LM": {
+    "fecha": "2021-07-17",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agroveterinaria Animals",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "1ne-XOPMYL": {
+    "fecha": "2021-07-17",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "La fama cajamarca ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "20DORdFqFz": {
+    "fecha": "2021-07-17",
+    "objetivo": "Otro",
+    "tienda": "Central Pecuaria ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "2AzEahxKQW": {
+    "fecha": "2021-07-17",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agroinsumos Cajamarca",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "Hg74W7dmN8": {
+    "fecha": "2021-07-18",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "HjWgbqdwuE": {
+    "fecha": "2021-07-18",
+    "objetivo": "Atención al público,Revisión inventario,Cobro cartera",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "HuBqLBTF2I": {
+    "fecha": "2021-07-18",
+    "objetivo": "Atención al público,Revisión inventario,Cobro cartera",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "HxZuypeOsf": {
+    "fecha": "2021-07-18",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "0jPU3bOdX6": {
+    "fecha": "2021-07-15",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrosolla",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "5U6Xe4ri0-": {
+    "fecha": "2021-07-21",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "5_OubdmxLU": {
+    "fecha": "2021-07-21",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "5evEbMKJkR": {
+    "fecha": "2021-07-21",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "5jLZXHoVJ1": {
+    "fecha": "2021-07-21",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Qkb_c7snWW": {
+    "fecha": "2021-07-21",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Insumos Baykim",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "c7_jwpquv6": {
+    "fecha": "2021-07-22",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrícola la gaitana ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "aV_f9FCXuX": {
+    "fecha": "2021-07-24",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "JC Agricola",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "R6XpevWdyu": {
+    "fecha": "2021-07-25",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "RGuxjUaM8A": {
+    "fecha": "2021-07-25",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Fertillanogrande",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "RLKNl1UrQ2": {
+    "fecha": "2021-07-25",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "QWIGv7Tqbk": {
+    "fecha": "2021-07-26",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Insumos Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "UKmz8ZuIld": {
+    "fecha": "2021-07-26",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "UPzs0WWc4I": {
+    "fecha": "2021-07-26",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "UTRuDzhSh9": {
+    "fecha": "2021-07-26",
+    "objetivo": "Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "UZRDYks1CZ": {
+    "fecha": "2021-07-26",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Ferreobrero",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "kjIN3ZT8MH": {
+    "fecha": "2021-07-27",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "sQbnYiJWTn": {
+    "fecha": "2021-07-27",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Tecnicas Endara",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "sVJxqe_BST": {
+    "fecha": "2021-07-27",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "BZagGqPXo-": {
+    "fecha": "2021-07-28",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "BbP_HHyhV0": {
+    "fecha": "2021-07-28",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "La casa del ganadero ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "MHGVtfeRYw": {
+    "fecha": "2021-07-28",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "MPXUrgjBJH": {
+    "fecha": "2021-07-28",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "MTYbbrecKb": {
+    "fecha": "2021-07-28",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "NLQV0_u4w0": {
+    "fecha": "2021-07-17",
+    "objetivo": "Atención al público,Solicitud pedidos,Revisión inventario",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "NcSO6ImxV2": {
+    "fecha": "2021-07-25",
+    "objetivo": "Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OEryEeYa__": {
+    "fecha": "2021-07-17",
+    "objetivo": "Atención al público,Solicitud pedidos,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OORa1-ZoxS": {
+    "fecha": "2021-07-17",
+    "objetivo": "Atención al público",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OaaJTvbMET": {
+    "fecha": "2021-07-18",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OfMkVXL0Js": {
+    "fecha": "2021-07-18",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Inagroscol",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Omta4Xr8K3": {
+    "fecha": "2021-07-18",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Ot2brE4V-g": {
+    "fecha": "2021-07-29",
+    "objetivo": "Atención al público",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "P1notoeOXw": {
+    "fecha": "2021-07-19",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "QTQBznoFpa": {
+    "fecha": "2021-07-26",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Qbpk0kR5az": {
+    "fecha": "2021-07-27",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "S-JUhgog15": {
+    "fecha": "2021-08-02",
+    "objetivo": "Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "S8Uz_sppx6": {
+    "fecha": "2021-08-02",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "SEO9WyFo1G": {
+    "fecha": "2021-08-02",
+    "objetivo": "Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "SJt7ia-rGN": {
+    "fecha": "2021-08-02",
+    "objetivo": "Otro",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "SSmjVeW4_5": {
+    "fecha": "2021-08-02",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "SaoirTWKwO": {
+    "fecha": "2021-08-02",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "veterinaria El Campo ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "SfdkOgwX3G": {
+    "fecha": "2021-08-02",
+    "objetivo": "Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "-F2hDUboAR": {
+    "fecha": "2021-08-03",
+    "objetivo": "Otro",
+    "tienda": "Ferreteria San Ignacio",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "-K3MaT7ZbS": {
+    "fecha": "2021-08-03",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Mlm6WEAIE-": {
+    "fecha": "2021-08-03",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Induagro Neiva",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "MsluUAzwFv": {
+    "fecha": "2021-08-03",
+    "objetivo": "Cobro cartera,Otro",
+    "tienda": "Asprolibertad",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "N0_Xvaet5f": {
+    "fecha": "2021-08-03",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Prodiagro E.U",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "NADpY96EUf": {
+    "fecha": "2021-08-03",
+    "objetivo": "Otro",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "afzv8p1b0k": {
+    "fecha": "2021-08-02",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "b-4FAUZJp5": {
+    "fecha": "2021-08-03",
+    "objetivo": "Atención al público,Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "b4WqTZ2WiA": {
+    "fecha": "2021-08-03",
+    "objetivo": "Atención al público",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "bI21mkAjEV": {
+    "fecha": "2021-08-03",
+    "objetivo": "Atención al público",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "bSJHVsbBzi": {
+    "fecha": "2021-08-01",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OKV3pae4UQ": {
+    "fecha": "2021-08-04",
+    "objetivo": "Otro",
+    "tienda": "Agronorte Tello",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "02kuBy1u4q": {
+    "fecha": "2021-08-05",
+    "objetivo": "Evento comercial",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "JddLrotu0u": {
+    "fecha": "2021-08-07",
+    "objetivo": "Cobro cartera,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "FojiyvLGab": {
+    "fecha": "2021-08-08",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "FvLzFWDF5c": {
+    "fecha": "2021-08-08",
+    "objetivo": "Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "G6OaMr_9Zd": {
+    "fecha": "2021-08-08",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "6fZJhxBauT": {
+    "fecha": "2021-08-09",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Agrocenter del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "C57B_zKcVc": {
+    "fecha": "2021-08-09",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrosolla",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "QZ3Ad3XUBZ": {
+    "fecha": "2021-08-11",
+    "objetivo": "Atención al público,Revisión inventario,Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "QgWXZrENQQ": {
+    "fecha": "2021-08-09",
+    "objetivo": "Atención al público,Solicitud pedidos,Revisión inventario",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "t4C2BmRTSO": {
+    "fecha": "2021-08-12",
+    "objetivo": "Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "0w8ajglNHp": {
+    "fecha": "2021-08-14",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Agropecuaria Brangus",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "0zKCdsyOhE": {
+    "fecha": "2021-08-14",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Ferreobrero",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "13t2Yx-QII": {
+    "fecha": "2021-08-14",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "GXyEjGlIJf": {
+    "fecha": "2021-08-16",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Gdh3ulhjK_": {
+    "fecha": "2021-08-16",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "GmYa_9unhI": {
+    "fecha": "2021-08-16",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "GrBMtbeocg": {
+    "fecha": "2021-08-16",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Cadefihuila Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "HOOVb1-w7A": {
+    "fecha": "2021-08-16",
+    "objetivo": "Revisión inventario,Solicitud pedidos",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "XlXcHlzFln": {
+    "fecha": "2021-08-17",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "XoOcppL8DC": {
+    "fecha": "2021-08-17",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "XrRK-OTflA": {
+    "fecha": "2021-08-17",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "XyDroN_Ryl": {
+    "fecha": "2021-08-17",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Y-m5skC7jL": {
+    "fecha": "2021-08-17",
+    "objetivo": "Evento comercial,Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Y9PwY5YZwP": {
+    "fecha": "2021-08-17",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Prodiagro E.U",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "EaLJ5NHsYS": {
+    "fecha": "2021-08-18",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "LjWTMNImaj": {
+    "fecha": "2021-08-18",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Lr60z7g3wa": {
+    "fecha": "2021-08-18",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "JNnauuY7Ey": {
+    "fecha": "2021-08-19",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "JUYEW44rBn": {
+    "fecha": "2021-08-19",
+    "objetivo": "Atención al público",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "JbjCw2GbP3": {
+    "fecha": "2021-08-19",
+    "objetivo": "Otro",
+    "tienda": "Insumos Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Jj45OLF_-N": {
+    "fecha": "2021-08-19",
+    "objetivo": "Otro",
+    "tienda": "Induagro Neiva",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Z8q0yn9Dsm": {
+    "fecha": "2021-08-16",
+    "objetivo": "Atención al público,Revisión inventario,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "9Xo5lMYIwM": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "9d2jcDOE0k": {
+    "fecha": "2021-08-21",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "9jdQYbkycW": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Carolina Perdomo Forero",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "9mcJGzfKps": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Insumos Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "9qFE6CNbZs": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "9uVf_ceKs3": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Eder Ladino",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "9xmQoOUdvc": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "A-_0qzssY0": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Prodiagro E.U",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "6wEZhn299S": {
+    "fecha": "2021-08-21",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria y ferretería Yipaca",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "orcZaq4AUw": {
+    "fecha": "2021-08-22",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "1lryQ68Vt3": {
+    "fecha": "2021-08-22",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Agrícola Rioneiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "kcECnYaK18": {
+    "fecha": "2021-08-22",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "AGJbvsj9BQ": {
+    "fecha": "2021-08-23",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "AR1ufIQWeI": {
+    "fecha": "2021-08-23",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "AqlvnY1FL8": {
+    "fecha": "2021-08-23",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "7h0kgkz93X": {
+    "fecha": "2021-08-23",
+    "objetivo": "Otro",
+    "tienda": "Asprolibertad ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "7tosWvK5VK": {
+    "fecha": "2021-08-23",
+    "objetivo": "Otro",
+    "tienda": "Tecnicas Endara",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "0ZSerzbgbL": {
+    "fecha": "2021-08-23",
+    "objetivo": "Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "0mtoaBGE9o": {
+    "fecha": "2021-08-24",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Insumos Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "0tlncgd3FY": {
+    "fecha": "2021-08-24",
+    "objetivo": "Revisión inventario,Solicitud pedidos,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "12C-0SFy4p": {
+    "fecha": "2021-08-24",
+    "objetivo": "Otro",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "1725iv8Tsf": {
+    "fecha": "2021-08-24",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "J8AhBZaLbD": {
+    "fecha": "2021-08-24",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "l836fwGyCD": {
+    "fecha": "2021-08-25",
+    "objetivo": "Evento comercial",
+    "tienda": "Agromelgar",
+    "departamento": "Tolima",
+    "vendedor": "Omar Angarita"
+  },
+  "g2Ch50xhi6": {
+    "fecha": "2021-08-24",
+    "objetivo": "Atención al público",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "g86HjVCqtE": {
+    "fecha": "2021-08-24",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "gF7lBzOfyB": {
+    "fecha": "2021-08-25",
+    "objetivo": "Atención al público",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "gY4YfQCbEV": {
+    "fecha": "2021-08-25",
+    "objetivo": "Cobro cartera,Solicitud pedidos",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "gkwGC-gWr5": {
+    "fecha": "2021-08-25",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Gerardo Quilombo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "FYogytoS4N": {
+    "fecha": "2021-08-25",
+    "objetivo": "Atención al público,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Fj8eNHhnL7": {
+    "fecha": "2021-08-25",
+    "objetivo": "Atención al público,Otro",
+    "tienda": "Fertillanogrande",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "Fod7HdOhT_": {
+    "fecha": "2021-08-25",
+    "objetivo": "Otro",
+    "tienda": "Carolina Perdomo Forero",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "FwO5Q4-uhv": {
+    "fecha": "2021-08-25",
+    "objetivo": "Otro",
+    "tienda": "Karol Daniela Alvarez Zamora",
+    "departamento": "Huila",
+    "vendedor": "Maritza Ferreira"
+  },
+  "XSbxaBkIjd": {
+    "fecha": "2021-09-02",
+    "objetivo": "Otro",
+    "tienda": "Agrosolla",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "z-Kl-1fm3k": {
+    "fecha": "2021-09-01",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Cadefihuila Palermo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "z8bl5P8cox": {
+    "fecha": "2021-09-01",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Cadefihuila Santa Maria",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "1NSHEMJzTT": {
+    "fecha": "2021-09-02",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Cadefihuila Aipe",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2UjScWC9gG": {
+    "fecha": "2021-09-02",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Cadefihuila Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3M7arlra2P": {
+    "fecha": "2021-09-02",
+    "objetivo": "Revisión inventario",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3jaX_eQlWK": {
+    "fecha": "2021-09-02",
+    "objetivo": "Revisión inventario,Cobro cartera",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "8ej-aHxufq": {
+    "fecha": "2021-09-02",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Gerardo Quilombo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "8pIeoi1p2O": {
+    "fecha": "2021-09-02",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "9QJDIeSgDl": {
+    "fecha": "2021-09-02",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "wq4a6fduJv": {
+    "fecha": "2021-09-03",
+    "objetivo": "Otro",
+    "tienda": "Disagro de Occidente ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "66E5449JTU": {
+    "fecha": "2021-09-07",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrosolla",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "M74tz19paH": {
+    "fecha": "2021-09-07",
+    "objetivo": "Evento comercial",
+    "tienda": "Agroveterinaria Animals",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "MPpGZGRQGO": {
+    "fecha": "2021-09-07",
+    "objetivo": "Evento comercial",
+    "tienda": "Agroinsumos Cajamarca",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "MfU3eqxV54": {
+    "fecha": "2021-09-07",
+    "objetivo": "Revisión inventario",
+    "tienda": "La fama cajamarca ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "MwatQWDicQ": {
+    "fecha": "2021-09-07",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "La fonda agroartesanal ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "NK5dqh83hl": {
+    "fecha": "2021-09-08",
+    "objetivo": "Evento comercial",
+    "tienda": "Concentrados y Mangueras",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "Nawa9GOv1m": {
+    "fecha": "2021-09-08",
+    "objetivo": "Revisión inventario,Cobro cartera",
+    "tienda": "Agropunto Campoalegre ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "NqLTeLYg8v": {
+    "fecha": "2021-09-08",
+    "objetivo": "Revisión inventario",
+    "tienda": "agropunto la Cosecha ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "O3hRaKUNHs": {
+    "fecha": "2021-09-08",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "La Familia del Campo",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "OE90cmDa6d": {
+    "fecha": "2021-09-08",
+    "objetivo": "Revisión inventario",
+    "tienda": "Central Pecuaria ",
+    "departamento": "Tolima",
+    "vendedor": "Juan Pablo Arboleda"
+  },
+  "sgs3miGNgo": {
+    "fecha": "2021-09-10",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrícola la gaitana ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "_0Y1Rz1mDn": {
+    "fecha": "2022-03-09",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Coagrohuila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Lorsban 2.5%dp",
+        "valor": 1011967920,
+        "fecha_despacho": "2024-02-27"
+      },
+      {
+        "producto": "Lorsban 4 ec",
+        "valor": 2756577600,
+        "fecha_despacho": "2023-07-02"
+      }
+    ]
+  },
+  "f4Cj_qNVdi": {
+    "fecha": "2022-03-10",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Tronador d",
+        "valor": 2575872,
+        "fecha_despacho": "2022-04-03"
+      },
+      {
+        "producto": "Lorsban 4ec",
+        "valor": 756748800,
+        "fecha_despacho": "2023-07-03"
+      },
+      {
+        "producto": "Tordon xt",
+        "valor": 1890352,
+        "fecha_despacho": "2022-03-18"
+      },
+      {
+        "producto": "Tordon xt",
+        "valor": 4346928,
+        "fecha_despacho": "2022-04-03"
+      },
+      {
+        "producto": "Lorsban 4ec",
+        "valor": 1795507200,
+        "fecha_despacho": "2024-10-25"
+      },
+      {
+        "producto": "Victorius 48sl",
+        "valor": 4762800,
+        "fecha_despacho": "2022-03-22"
+      },
+      {
+        "producto": "Herbox sl",
+        "valor": 477000,
+        "fecha_despacho": "2022-03-22"
+      },
+      {
+        "producto": "Tordon xt",
+        "valor": 1841890,
+        "fecha_despacho": "2022-03-14"
+      }
+    ]
+  },
+  "hbZe5wylVx": {
+    "fecha": "2022-03-07",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Edisson Palma",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz",
+    "pedido": [
+      {
+        "producto": "Victorius 48sl",
+        "valor": 293210,
+        "fecha_despacho": "2022-03-10"
+      },
+      {
+        "producto": "Tordon xt",
+        "valor": 66902,
+        "fecha_despacho": "2022-03-10"
+      }
+    ]
+  },
+  "quUySVjIEU": {
+    "fecha": "2021-09-10",
+    "objetivo": "Otro",
+    "tienda": "Cadefihuila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "pcMZ2d7xRW": {
+    "fecha": "2021-09-11",
+    "objetivo": "Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "phyex_0J1P": {
+    "fecha": "2021-09-11",
+    "objetivo": "Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "pw9njAKxYY": {
+    "fecha": "2021-09-11",
+    "objetivo": "Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "rMbd3GrObr": {
+    "fecha": "2021-09-11",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Distriagro del sur (La Plata 1)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "s6TO2iJbWl": {
+    "fecha": "2021-09-12",
+    "objetivo": "Atención al público",
+    "tienda": "Distriagro del sur (Garzón)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "sN1mlF8pbv": {
+    "fecha": "2021-09-13",
+    "objetivo": "Atención al público",
+    "tienda": "Central del Agro (pital)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "6YxF768ynv": {
+    "fecha": "2021-09-15",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agroinsumos el purace ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "6b1fSvqCaK": {
+    "fecha": "2021-09-15",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "El Aliado del campo",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "71YSDiBdFl": {
+    "fecha": "2021-09-15",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "AgroisnosB",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "8HGmDcidA9": {
+    "fecha": "2021-09-14",
+    "objetivo": "Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "AdLOmQb955": {
+    "fecha": "2021-09-14",
+    "objetivo": "Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Auq9OAWnJv": {
+    "fecha": "2021-09-15",
+    "objetivo": "Otro",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "B8794BAzR4": {
+    "fecha": "2021-09-15",
+    "objetivo": "Otro",
+    "tienda": "Agrícola Rioneiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "FamspXdbM8": {
+    "fecha": "2021-09-15",
+    "objetivo": "Otro",
+    "tienda": "Cultiarroz ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "vtRBRq2iFM": {
+    "fecha": "2021-09-16",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Distriagro del sur (La Plata 1)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "Zol6drT_sO": {
+    "fecha": "2021-09-16",
+    "objetivo": "Atención al público,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "_CGtHGyT1b": {
+    "fecha": "2021-09-16",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "_RwUoAdRIQ": {
+    "fecha": "2021-09-16",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Coagrohuila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "a75Xiastfl": {
+    "fecha": "2021-09-16",
+    "objetivo": "Cobro cartera,Solicitud pedidos",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "blmiUaY5ge": {
+    "fecha": "2021-09-17",
+    "objetivo": "Solicitud pedidos,Otro",
+    "tienda": "Cadefihuila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "6W9btjxthM": {
+    "fecha": "2021-09-19",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrícola la gaitana ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "b_cwGsHIYk": {
+    "fecha": "2021-09-17",
+    "objetivo": "Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "cEfal-3PZm": {
+    "fecha": "2021-09-19",
+    "objetivo": "Otro",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "CZGQlvsVHX": {
+    "fecha": "2021-09-22",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "JC Agricola",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "s-X3eh8xdW": {
+    "fecha": "2021-09-23",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "AgroisnosB",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "2EZHF1rKgQ": {
+    "fecha": "2021-09-23",
+    "objetivo": "Cobro cartera,Solicitud pedidos",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2N0m8eRdZw": {
+    "fecha": "2021-09-23",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "36i860yn5C": {
+    "fecha": "2021-09-22",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "41bONCDOvP": {
+    "fecha": "2021-09-22",
+    "objetivo": "Solicitud pedidos",
+    "tienda": "Edisson Palma",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "ZLE_LJ7NIK": {
+    "fecha": "2021-09-24",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Disagro de Occidente ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "NsxbwzyNUh": {
+    "fecha": "2021-09-25",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "UgHKqXYhbQ": {
+    "fecha": "2021-09-25",
+    "objetivo": "Otro",
+    "tienda": "Insumos Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "V-ZZ9RbEp3": {
+    "fecha": "2021-09-24",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "V5eJkyu-yW": {
+    "fecha": "2021-09-24",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "iErCSyj5aF": {
+    "fecha": "2021-09-25",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "h6XE9cXkC4": {
+    "fecha": "2021-09-26",
+    "objetivo": "Atención al público,Revisión inventario,Evento comercial",
+    "tienda": "Disagro de Occidente ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "3KdZK1Ae8_": {
+    "fecha": "2021-09-25",
+    "objetivo": "Revisión inventario",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "6ON3kgrpJQ": {
+    "fecha": "2021-09-25",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "36ytNhDGw8": {
+    "fecha": "2021-09-28",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Hz6kkwnToJ": {
+    "fecha": "2021-09-30",
+    "objetivo": "Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "ImkpbOSjAU": {
+    "fecha": "2021-09-30",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Cultiarroz ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "K49bZURkiF": {
+    "fecha": "2021-09-30",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "j7Q210ZYIj": {
+    "fecha": "2021-09-30",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "El Aliado del campo",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "jG1XH4WDr_": {
+    "fecha": "2021-09-30",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Insumos Baykim",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "9WYLoz9HN9": {
+    "fecha": "2021-10-02",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agrosolla",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "wiUjKmTtnb": {
+    "fecha": "2021-10-02",
+    "objetivo": "Negociación",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "xGXZ8nXo5c": {
+    "fecha": "2021-10-01",
+    "objetivo": "Negociación",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "xaBOngR39W": {
+    "fecha": "2021-10-01",
+    "objetivo": "Negociación",
+    "tienda": "Cadefihuila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "xxxYhvZiVL": {
+    "fecha": "2021-10-01",
+    "objetivo": "Otro",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "yRLkqacAjh": {
+    "fecha": "2021-09-30",
+    "objetivo": "Negociación",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "ye-ChhtmKP": {
+    "fecha": "2021-09-30",
+    "objetivo": "Negociación",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "yxNjJgmCAV": {
+    "fecha": "2021-09-30",
+    "objetivo": "Negociación",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "zJW8V2Eoid": {
+    "fecha": "2021-09-30",
+    "objetivo": "Cobro cartera,Negociación",
+    "tienda": "Inagroscol",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "-Cy8V4rk2P": {
+    "fecha": "2021-10-02",
+    "objetivo": "Atención al público,Revisión inventario,Negociación",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "-OnkkqUui_": {
+    "fecha": "2021-10-02",
+    "objetivo": "Atención al público,Cobro cartera,Negociación",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "-syriNzDty": {
+    "fecha": "2021-10-02",
+    "objetivo": "Otro",
+    "tienda": "veterinaria El Campo ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OQkb4xJHcK": {
+    "fecha": "2021-10-04",
+    "objetivo": "Otro",
+    "tienda": "Cadefihuila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "P4pNKEbqd0": {
+    "fecha": "2021-10-04",
+    "objetivo": "Otro",
+    "tienda": "Coagrohuila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "V0LWtrVzOC": {
+    "fecha": "2021-10-05",
+    "objetivo": "Negociación",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "WOFKuB6Nyw": {
+    "fecha": "2021-10-05",
+    "objetivo": "Cobro cartera,Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "qID1T9KpPx": {
+    "fecha": "2021-10-07",
+    "objetivo": "Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "qkh3WryXvd": {
+    "fecha": "2021-10-06",
+    "objetivo": "Atención al público,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "rBc35Gviaf": {
+    "fecha": "2021-10-06",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Coagrohuila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "u57rXhGDZ7": {
+    "fecha": "2021-10-07",
+    "objetivo": "Otro",
+    "tienda": "Agromark  S.A.",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "xc0BYGxKdN": {
+    "fecha": "2021-10-09",
+    "objetivo": "Atención al público,Otro",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "4GL_TIRVak": {
+    "fecha": "2021-10-09",
+    "objetivo": "Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "4mD3OvoWkh": {
+    "fecha": "2021-10-09",
+    "objetivo": "Atención al público,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "59irx7A_Dv": {
+    "fecha": "2021-10-09",
+    "objetivo": "Negociación,Otro",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "qKRDZnYb4p": {
+    "fecha": "2021-10-12",
+    "objetivo": "Cobro cartera,Otro",
+    "tienda": "Mi rancho",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "1r__qpxdx0": {
+    "fecha": "2021-10-13",
+    "objetivo": "Negociación,Otro",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "2jC2q-dtMR": {
+    "fecha": "2021-10-13",
+    "objetivo": "Atención al público,Negociación,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3_XxcyiNsC": {
+    "fecha": "2021-10-12",
+    "objetivo": "Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3zKH_KxhVM": {
+    "fecha": "2021-10-12",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "45DRtQzXMS": {
+    "fecha": "2021-10-12",
+    "objetivo": "Otro",
+    "tienda": "Cultiarroz ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Z_WFYBBosi": {
+    "fecha": "2021-10-18",
+    "objetivo": "Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "PUNic2PZ4Y": {
+    "fecha": "2021-10-18",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "PkkdxGtjSn": {
+    "fecha": "2021-10-11",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Cadefihuila Neiva ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "PqmY9Vp8lu": {
+    "fecha": "2021-10-11",
+    "objetivo": "Otro",
+    "tienda": "Agrosamarios del Huila s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "PzPDv7CWsH": {
+    "fecha": "2021-10-11",
+    "objetivo": "Otro",
+    "tienda": "Gerardo Quilombo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "QHkMrvd6Bs": {
+    "fecha": "2021-10-10",
+    "objetivo": "Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "QLfl3tUXDI": {
+    "fecha": "2021-10-10",
+    "objetivo": "Atención al público,Negociación,Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "QWOrrdrCOu": {
+    "fecha": "2021-10-12",
+    "objetivo": "Otro",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "REkFwnYQPH": {
+    "fecha": "2021-10-11",
+    "objetivo": "Atención al público,Negociación,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "LoU8vyESCP": {
+    "fecha": "2021-10-19",
+    "objetivo": "Atención al público,Revisión inventario,Otro",
+    "tienda": "Gerardo Quilombo",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "MMYT0S3iVZ": {
+    "fecha": "2021-10-19",
+    "objetivo": "Atención al público,Revisión inventario,Negociación,Otro",
+    "tienda": "Cadefihuila Santa Maria",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "NzH2rYAn1k": {
+    "fecha": "2021-10-19",
+    "objetivo": "Atención al público,Negociación,Otro",
+    "tienda": "Soluagro Seve comercializadora",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OKsUADkj5H": {
+    "fecha": "2021-10-19",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Coagrohuila Santa Maria",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OqF0ctbs02": {
+    "fecha": "2021-10-19",
+    "objetivo": "Negociación,Otro",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "nTMXpMVwGG": {
+    "fecha": "2021-10-20",
+    "objetivo": "Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "oBUzCoW3od": {
+    "fecha": "2021-10-20",
+    "objetivo": "Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "oOeADDvbeT": {
+    "fecha": "2021-10-20",
+    "objetivo": "Otro",
+    "tienda": "Cadefihuila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "pDpjNL_DIS": {
+    "fecha": "2021-10-20",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "WKKun1to6f": {
+    "fecha": "2021-10-25",
+    "objetivo": "Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "bqy97j4w6c": {
+    "fecha": "2021-10-25",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Cultiarroz ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "cDkusMSOz_": {
+    "fecha": "2021-10-25",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "NHE_oEbCLs": {
+    "fecha": "2021-10-26",
+    "objetivo": "Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "NjOXsRQAYs": {
+    "fecha": "2021-10-26",
+    "objetivo": "Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "O8ANhJsZwe": {
+    "fecha": "2021-10-26",
+    "objetivo": "Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "OM4iRXPNlC": {
+    "fecha": "2021-10-26",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "IWZ0UXM_m8": {
+    "fecha": "2021-10-27",
+    "objetivo": "Cobro cartera,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "IrcHYR5kU9": {
+    "fecha": "2021-10-27",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "J-QXvMTqHT": {
+    "fecha": "2021-10-27",
+    "objetivo": "Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "6qVrK0ber5": {
+    "fecha": "2021-10-28",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "UxCjHv2_0C": {
+    "fecha": "2021-10-28",
+    "objetivo": "Cobro cartera,Negociación,Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "BetVQfHPKR": {
+    "fecha": "2021-10-30",
+    "objetivo": "Atención al público,Cobro cartera,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "FsyZCArnhC": {
+    "fecha": "2021-11-02",
+    "objetivo": "Atención al público",
+    "tienda": "Vivero Versalles ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "l_KjPhJ05G": {
+    "fecha": "2021-11-02",
+    "objetivo": "Revisión inventario,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "m3n-RH1bBl": {
+    "fecha": "2021-11-02",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "mGoYv1ZdSW": {
+    "fecha": "2021-11-02",
+    "objetivo": "Otro",
+    "tienda": "Agromark  S.A.",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "rum-CC4tLd": {
+    "fecha": "2021-11-03",
+    "objetivo": "Atención al público,Revisión inventario,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "s75SbYWV--": {
+    "fecha": "2021-11-03",
+    "objetivo": "Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "sRV2Q8JCmn": {
+    "fecha": "2021-11-03",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "sy4pgskiaa": {
+    "fecha": "2021-11-02",
+    "objetivo": "Revisión inventario,Otro",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "3EKxXxV2Gi": {
+    "fecha": "2021-11-06",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Comité de ganaderos del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "78u5bCDqtd": {
+    "fecha": "2021-11-09",
+    "objetivo": "Atención al público,Negociación",
+    "tienda": "agrocosur",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Ac0yKB4k6-": {
+    "fecha": "2021-11-09",
+    "objetivo": "Atención al público,Cobro cartera,Negociación",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "ELNrwtLzTp": {
+    "fecha": "2021-11-09",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "xuaojXxXwk": {
+    "fecha": "2021-11-10",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agroinsumos el purace ",
+    "departamento": "Huila",
+    "vendedor": "Teresa Dominguez"
+  },
+  "KBdUPdK1JD": {
+    "fecha": "2021-11-11",
+    "objetivo": "Atención al público,Otro",
+    "tienda": "Edisson Palma",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "M4UgrSV3sH": {
+    "fecha": "2021-11-16",
+    "objetivo": "Cobro cartera,Otro",
+    "tienda": "Agricola Rio Neiva",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "MUGiXQXV02": {
+    "fecha": "2021-11-16",
+    "objetivo": "Otro",
+    "tienda": "Fertillanogrande",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "WG0caVTdUG": {
+    "fecha": "2021-11-16",
+    "objetivo": "Otro",
+    "tienda": "Cultiarroz ",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "BVegUlUMns": {
+    "fecha": "2021-11-16",
+    "objetivo": "Otro",
+    "tienda": "Asojuncal",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "Vc2Ol6bIXY": {
+    "fecha": "2021-11-18",
+    "objetivo": "Otro",
+    "tienda": "La casa del ganadero ",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "X9rSwx9PI3": {
+    "fecha": "2021-11-17",
+    "objetivo": "Atención al público,Revisión inventario,Negociación,Otro",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "YPTKRhaZJt": {
+    "fecha": "2021-11-17",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Coagrohuila",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "YYqx_uD3H9": {
+    "fecha": "2021-11-18",
+    "objetivo": "Otro",
+    "tienda": "Agromaquinas del Huila ",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "YkLLdNEMsd": {
+    "fecha": "2021-11-17",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "YlqD6wHzIY": {
+    "fecha": "2021-11-18",
+    "objetivo": "Otro",
+    "tienda": "Agrofuturo",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "YuHhyHs1DI": {
+    "fecha": "2021-11-18",
+    "objetivo": "Otro",
+    "tienda": "Induagro Neiva",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "YvXE0INlsx": {
+    "fecha": "2021-11-17",
+    "objetivo": "Otro",
+    "tienda": "Edisson Palma",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "SeHHE5MQUv": {
+    "fecha": "2021-11-18",
+    "objetivo": "Otro",
+    "tienda": "Almacén Mundo Agropecuario ",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "T8m5FhLZyK": {
+    "fecha": "2021-11-18",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Agronorte del Huila",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "tpPgZfVYBt": {
+    "fecha": "2021-11-18",
+    "objetivo": "Otro",
+    "tienda": "Coagrohuila",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "u8bbRfBazS": {
+    "fecha": "2022-05-18",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Empresarios del campo",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata",
+    "pedido": [
+      {
+        "producto": "Closer 240 sc",
+        "valor": 930000,
+        "fecha_despacho": "2022-05-22"
+      },
+      {
+        "producto": "Topgun",
+        "valor": 550000,
+        "fecha_despacho": "2022-05-22"
+      }
+    ]
+  },
+  "idnypc_rcp": {
+    "fecha": "2021-11-19",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "n7USkMPDIB": {
+    "fecha": "2021-11-19",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agricolas Algeciras ltda",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "nkEGeD9hWi": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "Coagrohuila Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "no9fQQuKIM": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "coagrohuila algeciras ",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "qttrquXa37": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "rqHIQbYjUX": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "OAS Agrícolas El resplandor de Algeciras s. a. s",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "4m3DV-0dc7": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "insumos Agropacifico",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "52GQeufoTP": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "9uhYiNDwZX": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria El Country",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "A1BT75AzlY": {
+    "fecha": "2021-11-19",
+    "objetivo": "Cobro cartera,Otro",
+    "tienda": "Agropecuaria Andina",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "ao63h4BnZB": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "Serviagro Campo verde Algeciras",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "bJsCLkZm9-": {
+    "fecha": "2021-11-19",
+    "objetivo": "Negociación,Otro",
+    "tienda": "Agroveterinaria La Fauna",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "bhUEsltTcl": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "Agroveterinaria El Country",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "cUfddQt9NS": {
+    "fecha": "2021-11-19",
+    "objetivo": "Otro",
+    "tienda": "Agrocentro Rivera",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "dY8OZoOjlP": {
+    "fecha": "2021-11-19",
+    "objetivo": "Cobro cartera,Otro",
+    "tienda": "Agropecuaria Andina",
+    "departamento": "Huila",
+    "vendedor": "Pedro Zapata"
+  },
+  "jvgxGE9tUT": {
+    "fecha": "2021-11-20",
+    "objetivo": "Otro",
+    "tienda": "Molino Roa Campoalegre",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "k7gTFOssJW": {
+    "fecha": "2021-11-20",
+    "objetivo": "Otro",
+    "tienda": "Fertillanogrande",
+    "departamento": "Huila",
+    "vendedor": "Lorena Muñoz"
+  },
+  "s58eQ5FMk_": {
+    "fecha": "2021-11-16",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Distriagro del sur (Garzón)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "sR5nKoqoMy": {
+    "fecha": "2021-11-17",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Serviagro (Guadalupe)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "seL4dJyYe3": {
+    "fecha": "2021-11-17",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Distriagro del sur (Guadalupe)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "t_60z-7Ipe": {
+    "fecha": "2021-11-18",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Distriagro del sur (Suaza)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  },
+  "tvyvOtfI0E": {
+    "fecha": "2021-11-20",
+    "objetivo": "Atención al público,Revisión inventario",
+    "tienda": "Distriagro del sur (La Plata 1)",
+    "departamento": "Huila",
+    "vendedor": "Julio Velasquez"
+  }
+}
